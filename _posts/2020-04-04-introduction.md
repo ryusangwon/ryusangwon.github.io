@@ -3,19 +3,17 @@ layout: post
 title: Ryu Sangwon
 ---
 
-![profile][../images/white.jpg]
+![profile](../images/white.jpg)
 
 I'm AI/NLP researcher.
 
------
+----
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
+Currently interested in summarization, dialogue system, question and answering.
+Contact: r8uuuuuuuu@gmail.com
 
-This demo site was last updated {{ site.time | date: "%B %d, %Y" }}.
-
-There are currently two themes built on Poole:
-
-* [CV](https://google.com)
+* [Contact](r8uuuuuuuu@gmail.com)
+* [CV]()
 * [Github](https://ryusangwon.github.com)
 
 ## What's included

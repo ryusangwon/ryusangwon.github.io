@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Introduction
+title: Ryu Sangwon
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+![profile][../images/white.jpg]
+
+I'm AI/NLP researcher.
 
 -----
 
@@ -13,10 +15,8 @@ This demo site was last updated {{ site.time | date: "%B %d, %Y" }}.
 
 There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub]({{ site.github.repo }}).
+* [CV](https://google.com)
+* [Github](https://ryusangwon.github.com)
 
 ## What's included
 

@@ -1,5 +1,5 @@
 # Setup
-title: Dark Poole
+title: Ryu Sangwon
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
@@ -32,17 +32,19 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Ryu Sangwon
+  url: https://github.com/ryusangwon
+  email: r8uuuuuuuu@gmail.com
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
-
-  - title: About
+  - title: About me
     url: /about
+
+  - title: Publications
+    url: /publications
+  
+

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,82 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi👋
 
-A data-driven personal website
+Research Interest
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- Natural Language Processing
+- Large Language Model
+- Text Summarization
+- Reinforcement Learning
+- Data Mining
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- POSTECH
+  - M.S/Ph.D. in Graduate School of Artifical Intelligence
+                  <br>Advised by Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> and
+                  <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a>
+                  <br>Worked with Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a>
+- Ajou University
+  - B.S. in Software and computer engineering & Artifical Intelligence(Micro)
 
-Site-wide configuration
+Research Experiences
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- Research Assistant, POSTECH, <a href="https://sites.google.com/view/nlppostech/">NLP Group</a>, February 2023 - current<br>advised by Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> and
+                    <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a>
+- Research Intern, Ajou University, <a href="https://sites.google.com/site/kasohn/group/">Lamda Lab</a>, February 2022 - December 2022<br>Advised by Prof. <a href="https://sites.google.com/site/kasohn/group/">Kyung-Ah Sohn</a>
+- Research Intern, Ajou University, <a href="https://sites.google.com/view/hmsl/">HMS Lab</a>, February 2021 - December 2021<br>Advised by Prof. <a href="https://sites.google.com/view/sangeunoh/">Sangeun Oh</a>
 
-Create content & metadata
+Teaching Experiences
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- Data Mining, Lecturer, POSCO AI Application Expert Training, April 2023 - August 2023
+- Mathematics, Teaching Assistant, Megastudy, May 2019 - December 2019
 
-**Markdown generator**
+Research Projects
+-----
+- 다국적 뉴스 기반 인공지능 뉴스 에이전트(MILAINA), 과학기술정보통신부, June 2023 - current
+- 인공지능을 활용한 온라인 혐오표현 식별모델 개발 및 검증, 한국표준협회, July 2022 - December 2022
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Application Projects
+-----
+- 고속도롤(LOL mento-menti Service) (Backend), August 2022 - December 2022
+  - Technology used: Javascript, Nodejs, SQL, Docker, Oracle Cloud
+- Mobile Cross Platform UI Distribution (Android), April 2021 - December 2021
+  - Technology used: Java, Android, Soot
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Awards and Certificates
+-----
+- Best Paper Award, 한국정보과학회(2023)
+- SOFTCON 연구부문 우수상(2022)
+- 빅데이터 분석 실무 2급
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+International Papers
+-----
+- Key-element-informed sLLM Tuning for News Summarization<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee <br> <span style="font-style: italic;"> In Review, October 2023 </span><br>
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Domestic Papers
+-----
+- 언어 모델의 뉴스 도메인 요약 성능 비교 분석</span><br>
+                  <b>Sangwon Ryu</b>, Yunsu Kim, Gary Geunbae Lee <br> <span style="font-style: italic;"> 제35회 한글 및 한국어정보처리 학술대회, October 2023 </span>(*Oral)
+- 질의 제어를 통한 자연스러운 질의 중심 텍스트 요약</span><br>
+                  <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;"> 2023 한국
+                      소프트웨어공학 학술대회, February 2023 </span>(*Best Paper Award, *Oral)
+- 추론 형태를 적용한 퓨샷 러닝과 지도 대조 손실 함수</span><br>
+                  <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;">
+                      2022년도 한국통신학회
+                      하계종합학술발표회, June 2022 </span>
+
+Patent
+-----
+- 질의 중심 텍스트 요약 프로그램 (2022)<br>
+              등록번호: C-2022-052465
+
+Skills
+-----
+- Python, Pytorch, Nodejs, django, SQL, Android
+
+Other Experiences
+- Forklift Driver, September 2018 - December 2018
+- Bus Driver, Auxiliary Police, October 2016 - July 2018

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi👋
+I'm PhD student at Pohang university of Science & Technology (POSTECH).
 
 Research Interest
 ======
@@ -18,9 +18,8 @@ Research Interest
 - Reinforcement Learning
 - Data Mining
 
-
 Education
-======
+-----
 - POSTECH
   - M.S/Ph.D. in Graduate School of Artifical Intelligence
                   <br>Advised by Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> and
@@ -35,11 +34,6 @@ Research Experiences
                     <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a>
 - Research Intern, Ajou University, <a href="https://sites.google.com/site/kasohn/group/">Lamda Lab</a>, February 2022 - December 2022<br>Advised by Prof. <a href="https://sites.google.com/site/kasohn/group/">Kyung-Ah Sohn</a>
 - Research Intern, Ajou University, <a href="https://sites.google.com/view/hmsl/">HMS Lab</a>, February 2021 - December 2021<br>Advised by Prof. <a href="https://sites.google.com/view/sangeunoh/">Sangeun Oh</a>
-
-Teaching Experiences
-------
-- Data Mining, Lecturer, POSCO AI Application Expert Training, April 2023 - August 2023
-- Mathematics, Teaching Assistant, Megastudy, May 2019 - December 2019
 
 International Papers
 -----
@@ -68,6 +62,11 @@ Application Projects
   - Technology used: Javascript, Nodejs, SQL, Docker, Oracle Cloud
 - Mobile Cross Platform UI Distribution (Android), April 2021 - December 2021
   - Technology used: Java, Android, Soot
+
+Teaching Experiences
+------
+- Data Mining, Lecturer, POSCO AI Application Expert Training, April 2023 - August 2023
+- Mathematics, Teaching Assistant, Megastudy, May 2019 - December 2019
 
 Awards and Certificates
 -----

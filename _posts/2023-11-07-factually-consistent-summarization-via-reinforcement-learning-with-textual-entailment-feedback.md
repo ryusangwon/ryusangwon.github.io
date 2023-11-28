@@ -1,12 +1,15 @@
 ---
-layout: post
 title: "[Paper Review] Factually Consistent Summarization via Reinforcement Lerning with Textual Entailment Feedback (ACL 2023)"
 date: "2023-11-07"
-tags: "Reinforcement Lerning, Summarization"
+permalink: /posts/2023/11/Factually Consistent Summarization via Reinforcement Lerning with Textual Entailment Feedback/
+tags:
+    - Reinforcement Lerning
+    - Summarization"
 image: /assets/images/figure2.png
 use_math: true
 ---
-<!-- ![]({{- page.image | relative_url -}}) -->
+
+
 
 Summarization에 RLEF 적용하기
 
@@ -26,6 +29,10 @@ Summarization에 RLEF 적용하기
 
 <p align='center'>
     <img width="300" alt="figure2" src="/ryusangwon.github.io/images/2023-11-07-factually-consistent-summarization-via-reinforcement-learning-with-textual-entailment-feedback/Table3.png">
+</p>
+
+<p align='center'>
+    <img width="300" alt="figure2" src="../images/2023-11-07-factually-consistent-summarization-via-reinforcement-learning-with-textual-entailment-feedback/Figure2.png">
 </p>
 
 <p align='center'>

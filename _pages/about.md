@@ -41,6 +41,22 @@ Teaching Experiences
 - Data Mining, Lecturer, POSCO AI Application Expert Training, April 2023 - August 2023
 - Mathematics, Teaching Assistant, Megastudy, May 2019 - December 2019
 
+International Papers
+-----
+- Key-element-informed sLLM Tuning for News Summarization<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee <br> <span style="font-style: italic;"> In Review, October 2023 </span><br>
+
+Domestic Papers
+-----
+- 언어 모델의 뉴스 도메인 요약 성능 비교 분석</span><br>
+                  <b>Sangwon Ryu</b>, Yunsu Kim, Gary Geunbae Lee <br> <span style="font-style: italic;"> 제35회 한글 및 한국어정보처리 학술대회, October 2023 </span>(*Oral)
+- 질의 제어를 통한 자연스러운 질의 중심 텍스트 요약</span><br>
+                  <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;"> 2023 한국
+                      소프트웨어공학 학술대회, February 2023 </span>(*Best Paper Award, *Oral)
+- 추론 형태를 적용한 퓨샷 러닝과 지도 대조 손실 함수</span><br>
+                  <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;">
+                      2022년도 한국통신학회
+                      하계종합학술발표회, June 2022 </span>
+
 Research Projects
 -----
 - 다국적 뉴스 기반 인공지능 뉴스 에이전트(MILAINA), 과학기술정보통신부, June 2023 - current
@@ -58,22 +74,6 @@ Awards and Certificates
 - Best Paper Award, 한국정보과학회(2023)
 - SOFTCON 연구부문 우수상(2022)
 - 빅데이터 분석 실무 2급
-
-International Papers
------
-- Key-element-informed sLLM Tuning for News Summarization<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee <br> <span style="font-style: italic;"> In Review, October 2023 </span><br>
-
-Domestic Papers
------
-- 언어 모델의 뉴스 도메인 요약 성능 비교 분석</span><br>
-                  <b>Sangwon Ryu</b>, Yunsu Kim, Gary Geunbae Lee <br> <span style="font-style: italic;"> 제35회 한글 및 한국어정보처리 학술대회, October 2023 </span>(*Oral)
-- 질의 제어를 통한 자연스러운 질의 중심 텍스트 요약</span><br>
-                  <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;"> 2023 한국
-                      소프트웨어공학 학술대회, February 2023 </span>(*Best Paper Award, *Oral)
-- 추론 형태를 적용한 퓨샷 러닝과 지도 대조 손실 함수</span><br>
-                  <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;">
-                      2022년도 한국통신학회
-                      하계종합학술발표회, June 2022 </span>
 
 Patent
 -----

@@ -42,11 +42,11 @@ International Papers
 
 Domestic Papers
 -----
-- Comparative Analysis of Language Model Performance in News Domain Summarization</span><br>
+- Comparative Analysis of Language Model Performance in News Domain Summarization<br>
                   <b>Sangwon Ryu</b>, Yunsu Kim, Gary Geunbae Lee <br> <span style="font-style: italic;"> HCLT 2023, October 2023 </span>(*Oral)
-- Query Control for Fluent Query Focused Summarization</span><br>
+- Query Control for Fluent Query Focused Summarization<br>
                   <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;"> KCSE 2023, February 2023 </span>(*Best Paper Award, *Oral)
-- NLI Style few-shot learning with supervised contrastive loss</span><br>
+- NLI Style few-shot learning with supervised contrastive loss<br>
                   <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;">
                       KICS 2022, June 2022 </span>
 

@@ -41,24 +41,22 @@ International Papers
 
 Domestic Papers
 -----
-- 언어 모델의 뉴스 도메인 요약 성능 비교 분석</span><br>
-                  <b>Sangwon Ryu</b>, Yunsu Kim, Gary Geunbae Lee <br> <span style="font-style: italic;"> 제35회 한글 및 한국어정보처리 학술대회, October 2023 </span>(*Oral)
-- 질의 제어를 통한 자연스러운 질의 중심 텍스트 요약</span><br>
-                  <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;"> 2023 한국
-                      소프트웨어공학 학술대회, February 2023 </span>(*Best Paper Award, *Oral)
-- 추론 형태를 적용한 퓨샷 러닝과 지도 대조 손실 함수</span><br>
+- Comparative Analysis of Language Model Performance in News Domain Summarization</span><br>
+                  <b>Sangwon Ryu</b>, Yunsu Kim, Gary Geunbae Lee <br> <span style="font-style: italic;"> HCLT 2023, October 2023 </span>(*Oral)
+- Query Control for Fluent Query Focused Summarization</span><br>
+                  <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;"> KCSE 2023, February 2023 </span>(*Best Paper Award, *Oral)
+- NLI Style few-shot learning with supervised contrastive loss</span><br>
                   <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;">
-                      2022년도 한국통신학회
-                      하계종합학술발표회, June 2022 </span>
+                      KICS 2022, June 2022 </span>
 
 Research Projects
 -----
-- 다국적 뉴스 기반 인공지능 뉴스 에이전트(MILAINA), 과학기술정보통신부, June 2023 - current
-- 인공지능을 활용한 온라인 혐오표현 식별모델 개발 및 검증, 한국표준협회, July 2022 - December 2022
+- MILAINA: Multi-Lingual AI News Agent, Ministry of Science and ICT (MSIT), June 2023 - current
+- Development and Verification of Online hate Speech Identification Model, National Research Foundation of Korea (NRF), July 2022 - December 2022
 
 Application Projects
 -----
-- 고속도롤(LOL mento-menti Service) (Backend), August 2022 - December 2022
+- HighwayLoL (LOL mento-menti Service) (Backend), August 2022 - December 2022
   - Technology used: Javascript, Nodejs, SQL, Docker, Oracle Cloud
 - Mobile Cross Platform UI Distribution (Android), April 2021 - December 2021
   - Technology used: Java, Android, Soot
@@ -70,14 +68,15 @@ Teaching Experiences
 
 Awards and Certificates
 -----
-- Best Paper Award, 한국정보과학회(2023)
-- SOFTCON 연구부문 우수상(2022)
-- 빅데이터 분석 실무 2급
+- Best Paper Award, KCSE(2023)
+- SOFTCON Research Excellence Award, Ajou University(2022)
+- Big Data Analysis Practice Level 2
 
-Patent
+Patent and Copyright
 -----
-- 질의 중심 텍스트 요약 프로그램 (2022)<br>
-              등록번호: C-2022-052465
+- sLLM Tuning method for News Summarization, device for the same, and method for generating news summarization 2023<br>*Patent*, Registration Number: 10-2023-0191656
+- Query focus summarization Program (2022)<br>*Copyright*
+              Registration Number: C-2022-052465
 
 Skills
 -----

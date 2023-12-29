@@ -1,6 +1,6 @@
 ---
 title: "[Paper Review] Using Question Answering Rewards to Improve Abstractive Summarization (EMNLP 2021 Findings)"
-date: "2023-12-22"
+date: "2023-12-23"
 permalink: /posts/2023/12/Using Question Answering Rewards to Improve Abstractive Summarization/
 tags:
     - Summarization

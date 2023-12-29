@@ -81,7 +81,7 @@ Patent and Copyright
 
 Skills
 -----
-- Python, Pytorch, Nodejs, django, SQL, Android
+- Python, Pytorch, Nodejs, django, SQL, **Android**
 
 Other Experiences
 -----

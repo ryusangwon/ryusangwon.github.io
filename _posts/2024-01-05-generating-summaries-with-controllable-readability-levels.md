@@ -1,7 +1,7 @@
 ---
-title: "[Paper Review] Generating Summaries with Controllable Readability Levels (EMNLP 2021)"
-date: "2023-12-30"
-permalink: /posts/2023/12/QuestEval: Generating Summaries with Controllable Readability Levels/
+title: "[Paper Review] Generating Summaries with Controllable Readability Levels (EMNLP 2023)"
+date: "2024-01-05"
+permalink: /posts/2023/12/Generating Summaries with Controllable Readability Levels/
 tags:
     - Summarization
     - Instruction Tuning

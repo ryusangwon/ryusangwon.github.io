@@ -76,7 +76,7 @@ Awards and Certificates
 Patent and Copyright
 -----
 - sLLM Tuning method for News Summarization, device for the same, and method for generating news summarization 2023<br>*Patent*, Registration Number: 10-2023-0191656
-- Query focus summarization Program (2022)<br>*Copyright*
+- Query focus summarization Program (2022)<br>*Copyright*,
               Registration Number: C-2022-052465
 
 Skills
@@ -84,5 +84,7 @@ Skills
 - Python, Pytorch, Nodejs, django, SQL, Android
 
 Other Experiences
+-----
 - Forklift Driver, September 2018 - December 2018
 - Bus Driver, Auxiliary Police, October 2016 - July 2018
+

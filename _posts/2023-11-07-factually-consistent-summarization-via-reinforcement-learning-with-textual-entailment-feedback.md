@@ -8,8 +8,6 @@ tags:
 use_math: true
 ---
 
-
-
 Summarization에 RLEF 적용하기
 
 ## Abstract

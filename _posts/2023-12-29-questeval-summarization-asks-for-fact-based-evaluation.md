@@ -18,24 +18,26 @@ QA를 통해 요약 성능 테스트하기
 
 
 
-## Method
+## Method (A Question-Answering based Framework)
 
 
 
-### RLEF: RL from Entailment Feedback
+### Question Answering
 
-### Rewards
-
-
-
-### Training Algorithm
+### Question Generation
 
 
 
-### Decoding at Inference Time
+## The QuestEval metric
 
 
-## Result
+
+### Precision
+
+
+### Recall
+
+## Experiment
 
 
 

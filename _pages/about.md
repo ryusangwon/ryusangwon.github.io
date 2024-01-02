@@ -73,15 +73,15 @@ Awards and Certificates
 - SOFTCON Research Excellence Award, Ajou University(2022)
 - Big Data Analysis Practice Level 2
 
-Patent and Copyright
+Patents and Copyrights
 -----
+- Instruction Tuned sLLM for News Summarization<br>*Copyright*, Registration Number: C-2024-000076
 - sLLM Tuning method for News Summarization, device for the same, and method for generating news summarization 2023<br>*Patent*, Registration Number: 10-2023-0191656
-- Query focus summarization Program (2022)<br>*Copyright*,
-              Registration Number: C-2022-052465
+- Query focus summarization Program (2022)<br>*Copyright*, Registration Number: C-2022-052465
 
 Skills
 -----
-- Python, Pytorch, Nodejs, django, SQL, **Android**
+- Python, Pytorch, Nodejs, django, SQL, Android
 
 Other Experiences
 -----

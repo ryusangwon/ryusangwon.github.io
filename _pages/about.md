@@ -76,7 +76,7 @@ Awards and Certificates
 Patents and Copyrights
 -----
 - Instruction Tuned sLLM for News Summarization<br>*Copyright*, Registration Number: C-2024-000076
-- sLLM Tuning method for News Summarization, device for the same, and method for generating news summarization 2023<br>*Patent*, Registration Number: 10-2023-0191656
+- sLLM Tuning method for News Summarization, device for the same, and method for generating news summarization<br>*Patent*, Registration Number: 10-2023-0191656
 - Query focus summarization Program (2022)<br>*Copyright*, Registration Number: C-2022-052465
 
 Skills

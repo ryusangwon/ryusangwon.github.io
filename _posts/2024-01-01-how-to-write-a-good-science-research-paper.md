@@ -1,7 +1,7 @@
 ---
-title: "[Research] How to Write Good Science Research Paper"
+title: "[Research] How to Write a Good Science Research Paper"
 date: "2024-01-01"
-permalink: /posts/2024/01/How to Write Good Science Research Paper/
+permalink: /posts/2024/01/How to Write a Good Science Research Paper/
 tags:
     - Writing Skills
     - Science Research Paper

@@ -38,6 +38,7 @@ Research Experiences
 International Papers
 -----
 
+- Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Gary Geunbae Lee, Jungseol Ok<br><span style='font-style:italic;">In Review, February 2024 </span><br>
 - Key-element-informed sLLM Tuning for News Summarization<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee <br> <span style="font-style: italic;"> In Review, October 2023 </span><br>
 
 Domestic Papers

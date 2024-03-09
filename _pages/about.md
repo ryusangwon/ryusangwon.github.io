@@ -38,8 +38,8 @@ Research Experiences
 International Papers
 -----
 
-- Key-element-informed sLLM Tuning for News Summarization<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee <br> <span style="font-style: italic;"> In Review, April 2024 </span><br>
-- Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Gary Geunbae Lee, Jungseol Ok<br> <span style="font-style: italic;">In Review, February 2024 </span><br>
+- Key-Element-Informed sLLM Tuning for Spoken Document Summarization<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> In Review, April 2024 </span><br>
+- Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">In Review, February 2024 </span><br>
 
 Domestic Papers
 -----
@@ -65,6 +65,7 @@ Application Projects
 
 Teaching Experiences
 ------
+- Undergraduate research participation, Mentor, POSTECH, February 2024 - current
 - Data Mining, Lecturer, POSCO AI Application Expert Training, April 2023 - August 2023
 - Mathematics, Teaching Assistant, Megastudy, May 2019 - December 2019
 

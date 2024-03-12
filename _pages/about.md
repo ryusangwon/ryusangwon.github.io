@@ -38,7 +38,7 @@ Research Experiences
 International Papers
 -----
 
-- Key-Element-Informed sLLM Tuning for Spoken Document Summarization<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> In Review, April 2024 </span><br>
+- Key-Element-Informed sLLM Tuning for Document Summarization<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> In Review, April 2024 </span><br>
 - Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">In Review, February 2024 </span><br>
 
 Domestic Papers
@@ -71,7 +71,7 @@ Teaching Experiences
 
 Awards and Certificates
 -----
-- Best Paper Award, KCSE(2023)
+- Best Paper Award, KCSE (2023)
 - SOFTCON Research Excellence Award, Ajou University(2022)
 - Big Data Analysis Practice Level 2
 

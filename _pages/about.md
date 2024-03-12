@@ -65,7 +65,7 @@ Application Projects
 
 Teaching Experiences
 ------
-- Undergraduate research participation, Mentor, POSTECH, February 2024 - current
+- Undergraduate Research Participation, Mentor, POSTECH, February 2024 - current
 - Data Mining, Lecturer, POSCO AI Application Expert Training, April 2023 - August 2023
 - Mathematics, Teaching Assistant, Megastudy, May 2019 - December 2019
 

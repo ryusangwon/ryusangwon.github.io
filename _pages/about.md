@@ -51,6 +51,17 @@ Domestic Papers
                   <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;">
                       KICS 2022, June 2022 </span>
 
+Teaching Experiences
+------
+<!-- - Teaching Assistant, POSTECH -->
+- Mentor, POSTECH
+  - Undergraduate Research Participation, February 2024 - current
+- Lecturer, POSCO AI Application Expert Training
+  - Data Mining, April 2024 - current
+  - Data Mining, April 2023 - August 2023
+- Teaching Assistant, Megastudy
+  - Mathematics, May 2019 - December 2019
+
 Research Projects
 -----
 - MILAINA: Multi-Lingual AI News Agent, Ministry of Science and ICT (MSIT), June 2023 - current
@@ -62,17 +73,6 @@ Application Projects
   - Technology used: Javascript, Nodejs, SQL, Docker, Oracle Cloud
 - Mobile Cross Platform UI Distribution (Android), April 2021 - December 2021
   - Technology used: Java, Android, Soot
-
-Teaching Experiences
-------
-<!-- - Teaching Assistant, POSTECH -->
-- Mentor, POSTECH
-  - Undergraduate Research Participation, February 2024 - current
-- Lecturer, POSCO AI Application Expert Training
-  - Data Mining, April 2024 - current
-  - Data Mining, April 2023 - August 2023
-- Teaching Assistant, Megastudy
-  - Mathematics, May 2019 - December 2019
 
 Awards and Certificates
 -----

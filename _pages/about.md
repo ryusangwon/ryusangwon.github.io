@@ -55,7 +55,7 @@ Teaching Experiences
 ------
 <!-- - Teaching Assistant, POSTECH -->
 - Mentor, POSTECH
-  - Undergraduate Research Participation, February 2024 - current
+  - Text Summarization, Undergraduate Research Participation, February 2024 - current
 - Lecturer, POSCO AI Application Expert Training
   - Data Mining, April 2024 - current
   - Data Mining, April 2023 - August 2023

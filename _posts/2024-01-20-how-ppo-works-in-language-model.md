@@ -115,7 +115,7 @@ Advantage function을 계산할 때는 *r*이 필요하다. *r*은 각 timestep�
 *Action space*: Policy의 vocabulary
 
 ## Comments
-PPO를 NLP 분야에서 적용하는 것에서 이해가 가지 않는 부분이 많다. 특히, $value$를 구할 때, 각 토큰의 hidden dimension이 linear head를 통과한 scalar값을 사용하고, $advantage$를 구할 때는 미래 시점 $reward$ 합에서 이 $value$ 값을 빼주는데, 해당 방법이 동작하는 과정에서 이해가 가지 않는 부분이 있었다. 미래 시점 $reward$는 ROUGE값인데, 여기서 $value$ 값으로 hidden dimension이 linear head를 통과한 scalar값을 빼주는 것이 어떤 도움을 주는 지가 특히 어려웠다.
+NLP에서 PPO를 적용할 때, $value$ function을 예측하기 위해서 각 토큰의 hidden dimension이 linear head를 통과한 scalar값을 사용하는데, 해당 scalar 값이 실제 value function을 예측할 수 있는 지에 대한 의구심이 들었다. 만약 $reward$로 ROUGE 점수를 준다면, 각 토큰에 대한 $reward$는 KL penalty이고 마지막 생성한 토큰에 대한 $reward$가 ROUGE 값일 것이다. 따라서, $return$은 discount factor를 적용한 에피소드의 총 $reward$ 합일 것이고, 이 값이 곧 hidden dimension이 linear head를 통과한 scalar값이 곧 예측한 $value$이 된다. 해당 linear layer가 value를 예측할만한 충분한 정보를 담을 수 있을까?
 
 
 ## Reference

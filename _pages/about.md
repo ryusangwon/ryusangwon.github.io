@@ -35,14 +35,14 @@ Research Experiences
 - Research Intern, Ajou University, <a href="https://sites.google.com/site/kasohn/group/">Lamda Lab</a>, February 2022 - December 2022<br>Advised by Prof. <a href="https://sites.google.com/site/kasohn/group/">Kyung-Ah Sohn</a>
 - Research Intern, Ajou University, <a href="https://sites.google.com/view/hmsl/">HMS Lab</a>, February 2021 - December 2021<br>Advised by Prof. <a href="https://sites.google.com/view/sangeunoh/">Sangeun Oh</a>
 
-International Papers
+Publications
 -----
 
-- Key-Element-Informed sLLM Tuning for Document Summarization<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> In Review, April 2024 </span><br>
-- Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">In Review, February 2024 </span><br>
+- Key-Element-Informed sLLM Tuning for Document Summarization<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> In Review, April 2024 </span>
 
-Domestic Papers
------
+---
+
+- Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024, August 2024 </span>
 - Comparative Analysis of Language Model Performance in News Domain Summarization<br>
                   <b>Sangwon Ryu</b>, Yunsu Kim, Gary Geunbae Lee <br> <span style="font-style: italic;"> HCLT 2023, October 2023 </span>(*Oral)
 - Query Control for Fluent Query Focused Summarization<br>
@@ -64,8 +64,8 @@ Teaching Experiences
 
 Research Projects
 -----
-- MILAINA: Multi-Lingual AI News Agent, Ministry of Science and ICT (MSIT), June 2023 - current
-- Development and Verification of Online hate Speech Identification Model, National Research Foundation of Korea (NRF), July 2022 - December 2022
+- MILAINA: Multi-Lingual AI News Agent<br>National Research Foundation of Korea (NRF), June 2023 - current
+- Development and Verification of Online hate Speech Identification Model<br>National Research Foundation of Korea (NRF), July 2022 - December 2022
 
 Application Projects
 -----
@@ -88,7 +88,7 @@ Patents and Copyrights
 
 Skills
 -----
-- Python, Pytorch, Nodejs, django, SQL, Android
+- Python, Pytorch, (Nodejs, django, SQL, Android)
 
 Other Experiences
 -----

@@ -27,7 +27,7 @@ Education
                   <br>Worked with Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a>
 - Ajou University
   - B.S. in Software and Computer Engineering
-  - micro major in Artifical Intelligence
+  - Micro Major in Artifical Intelligence
 
 Research Experiences
 ------
@@ -38,13 +38,17 @@ Research Experiences
 
 Publications
 -----
-{ }: Equal contributions
-- Key-Element-Informed sLLM Tuning for Document Summarization<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> INTERSPEECH 2024, September 2024 </span> <a href="">[paper]</a><a href="">[code]</a>
-- Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br>{<b>Sangwon Ryu</b>, Heejin Do}, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024, August 2024 </span> <a href="">[paper]</a><a href="">[code]</a>
+*: Equal contributions
+
+- Key-Element-Informed sLLM Tuning for Document Summarization<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> _under review_ </span> <a href="">[paper]</a><a href="">[code]</a>
+
+----
+
+- Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024, August 2024 </span> <a href="">[paper]</a><a href="">[code]</a>
 - Comparative Analysis of Language Model Performance in News Domain Summarization<br>
-                  <b>Sangwon Ryu</b>, Yunsu Kim, Gary Geunbae Lee <br> <span style="font-style: italic;"> HCLT 2023, October 2023 </span>(*Oral)
+                  <b>Sangwon Ryu</b>, Yunsu Kim, Gary Geunbae Lee <br> <span style="font-style: italic;"> HCLT 2023, October 2023 </span><span style="color:lightgray;">(Oral presentation)</span>
 - Query Control for Fluent Query Focused Summarization<br>
-                  <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;"> KCSE 2023, February 2023 </span>(*Best Paper Award, *Oral)
+                  <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;"> KCSE 2023, February 2023 </span><span style="color:lightgray;">(Best paper award, Oral presentation)</span>
 - NLI Style few-shot learning with supervised contrastive loss<br>
                   <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;">
                       KICS 2022, June 2022 </span>
@@ -75,8 +79,10 @@ Application Projects
 Awards and Certificates
 -----
 - Best Paper Award, KCSE (2023)
-- SOFTCON Research Excellence Award, Ajou University(2022)
+- SOFTCON Research Excellence Award, Ajou University (2022)
 - Big Data Analysis Practice Level 2
+- Recognition Award, Gyeonggi Nambu Provincial Police Agency (2017)
+- Excellence Recruit, Korea Army (2016)
 
 Patents and Copyrights
 -----

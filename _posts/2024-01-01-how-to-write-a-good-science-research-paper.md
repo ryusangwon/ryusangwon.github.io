@@ -8,6 +8,8 @@ tags:
 use_math: true
 ---
 
+-ing
+
 영어 논문 작성법
 
 ## Abstract 작성법

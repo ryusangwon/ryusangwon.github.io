@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "[Research] How PPO Works in Language Model"
 date: "2024-01-20"
 permalink: /posts/2024/01/How PPO Works in Language Model/
@@ -124,4 +124,4 @@ NLP에서 PPO를 적용할 때, $value$ function을 예측하기 위해서 각 �
 Proximal Policy Optimization Algorithms, John Schulman, arXiv 2017 <br>
 Learning to summarize from human feedback, Nisan Stiennon, NeurIPS 2022 <br>
 OpenAI Spinning Up <br>
-HuggingFace TRL Library <br> -->
+HuggingFace TRL Library <br>

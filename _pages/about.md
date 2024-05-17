@@ -24,7 +24,7 @@ Education
   - Ph.D. in Graduate School of Artifical Intelligence
                   <br>Advised by Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> and
                   <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a>
-                  <br>Worked with Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a>
+                  <br>Thanks to Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a>
 - Ajou University
   - B.S. in Software and Computer Engineering
   - Micro Major in Artifical Intelligence

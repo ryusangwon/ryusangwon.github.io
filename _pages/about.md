@@ -25,7 +25,7 @@ Research Interest
 Education
 -----
 - POSTECH
-  - Ph.D. in Graduate School of Artifical Intelligence
+  - Ph.D. student in Graduate School of Artifical Intelligence
                   <br>Advised by Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> and
                   <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a>
                   <br>Thanks to Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a>
@@ -35,8 +35,7 @@ Education
 
 Research Experiences
 ------
-- Research Assistant, POSTECH, <a href="https://sites.google.com/view/nlppostech/">NLP Group</a>, February 2023 - current<br>advised by Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> and
-                    <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a>
+- Research Assistant, POSTECH, <a href="https://sites.google.com/view/nlppostech/">NLP Group</a>, February 2023 - current<br>Advised by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a> and Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> 
 - Research Intern, Ajou University, <a href="https://sites.google.com/site/kasohn/group/">Lamda Lab</a>, February 2022 - December 2022<br>Advised by Prof. <a href="https://sites.google.com/site/kasohn/group/">Kyung-Ah Sohn</a>
 - Research Intern, Ajou University, <a href="https://sites.google.com/view/hmsl/">HMS Lab</a>, February 2021 - December 2021<br>Advised by Prof. <a href="https://sites.google.com/view/sangeunoh/">Sangeun Oh</a>
 

@@ -85,7 +85,7 @@ author:
   bio              : "Natural Language Processing, Reinforcement Learning"
   location         : "Pohang"
   employer         :
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.kr/citations?user=LQcIsrQAAAAJ&hl=ko&authuser=1"
   email            : "ryusangwon@postech.ac.kr"
   uri              :
   bitbucket        :

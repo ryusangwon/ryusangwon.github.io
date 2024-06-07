@@ -10,7 +10,7 @@ redirect_from:
 
 I'm PhD student at Pohang university of Science & Technology (POSTECH).
 
-#### ryusangwon@postech.ac.kr<br>r8uuuuuuuu@gmail.com
+ryusangwon@postech.ac.kr
 
 ----
 

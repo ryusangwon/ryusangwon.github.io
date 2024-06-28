@@ -43,6 +43,12 @@ Publications
 -----
 *: Equal contributions
 
+- Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with
+Scoring-aware Multiple Rewards<br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">under review, June 2024 </span>
+- LLM-augmented Multi-facet Blending for Faceted Query-by-Example Retrieval in Low-resource Settings<br>Heejin Do, <b>Sangwon Ryu</b>, jonghwi Kim, Gary Geunbae Lee<br> <span style="font-style: italic;">under review, May 2024 </span> 
+
+----
+
 - Key-Element-Informed sLLM Tuning for Document Summarization<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> INTERSPEECH 2024, September 2024 </span> <a href="https://arxiv.org/abs/2406.04625">[paper]</a>
 - Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024, August 2024 </span> <a href="https://arxiv.org/abs/2406.00303">[paper]</a>
 - Comparative Analysis of Language Model Performance in News Domain Summarization<br>
@@ -96,6 +102,8 @@ Skills
 
 Other Experiences
 -----
+- GJJ, White Belt, 2024 - current
 - Forklift Driver, September 2018 - December 2018
 - Bus Driver, Auxiliary Police, October 2016 - July 2018
-
+- Mixed Martial Arts, 2013 - 2016
+- Strong interests in {Body Building, MMA, Grappling}

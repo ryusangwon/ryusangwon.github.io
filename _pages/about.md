@@ -69,6 +69,10 @@ Teaching Experiences
   - Data Mining, April 2023 - August 2023
 - Teaching Assistant, Megastudy
   - Mathematics, May 2019 - December 2019
+  
+Responsibilities
+-----
+- Reviewer: ACL-SRW 2024
 
 Research Projects
 -----
@@ -95,10 +99,6 @@ Patents and Copyrights
 - Instruction Tuned sLLM for News Summarization<br>*Copyright*, Registration Number: C-2024-000076
 - sLLM Tuning method for News Summarization, device for the same, and method for generating news summarization<br>*Patent*, Registration Number: 10-2023-0191656
 - Query focus summarization Program <br>*Copyright*, Registration Number: C-2022-052465
-
-Responsibilities
------
-- Reviewer: ACL-SRW 2024
 
 Skills
 -----

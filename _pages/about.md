@@ -76,7 +76,7 @@ Responsibilities
 
 Research Projects
 -----
-- MILAINA: Multi-Lingual AI News Agent<br>National Research Foundation of Korea (NRF), June 2023 - current
+- MILAINA: Multi-Lingual AI News Agent<br>National Research Foundation of Korea (NRF), PI, June 2023 - current
 - Development and Verification of Online Hate Speech Identification Model<br>National Research Foundation of Korea (NRF), July 2022 - December 2022
 
 Application Projects

@@ -106,8 +106,7 @@ Skills
 
 Other Experiences
 -----
-- GJJ, White Belt, 2024 - current
 - Forklift Driver, September 2018 - December 2018
 - Bus Driver, Auxiliary Police, October 2016 - July 2018
-- Mixed Martial Arts, 2013 - 2016
-- Strong interests in {Body Building, MMA, Grappling}
+- GJJ, White Belt
+- Interests in {Body Building, MMA, Grappling}

@@ -66,8 +66,8 @@ Publications
 
 Teaching Experiences
 ------
-- Teaching Assistant, POSTECH
-  - Artificial Intelligence, Autumn 2024
+<!-- - Teaching Assistant, POSTECH
+  - Artificial Intelligence, Autumn 2024 -->
 - Mentor, POSTECH, Undergraduate Research Participation
   - Text Summarization, February 2024 - June 2024
 - Lecturer, POSCO AI Application Expert Training

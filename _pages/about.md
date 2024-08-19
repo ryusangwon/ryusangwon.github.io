@@ -78,7 +78,9 @@ Teaching Experiences
   
 Responsibilities
 -----
-- Reviewer: ACL-SRW 2024
+- Reviewer
+  - Conference: ACL-SRW (2024)
+  - Journal: TASL (2024)
 
 Research Projects
 -----

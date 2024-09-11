@@ -43,13 +43,11 @@ Publications
 -----
 *: Equal contributions
 
-<!-- - Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with -->
-<!-- Scoring-aware Multiple Rewards<br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">under review, June 2024 </span> -->
-<!-- - LLM-augmented Multi-facet Blending for Faceted Query-by-Example Retrieval in Low-resource Settings<br>Heejin Do, <b>Sangwon Ryu</b>, jonghwi Kim, Gary Geunbae Lee<br> <span style="font-style: italic;">under review, May 2024 </span>  -->
-
 ----
 
-<!-- - Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with Scoring-aware Multiple Rewards<br>Heejin Do*, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">EMNLP 2024, August 2024 </span> -->
+### conferences
+
+- Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with Scoring-aware Multiple Rewards<br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">EMNLP 2024, August 2024 </span>
 - Key-Element-Informed sLLM Tuning for Document Summarization<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> INTERSPEECH 2024, September 2024 </span> <a href="https://www.isca-archive.org/interspeech_2024/ryu24_interspeech.html#">[paper]</a> <span style="color:lightgray;">(Oral presentation)</span>
 - Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024, August 2024 </span> <a href="https://aclanthology.org/2024.acl-long.319/">[paper]</a>
 - Comparative Analysis of Language Model Performance in News Domain Summarization<br>
@@ -60,14 +58,15 @@ Publications
                   <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;">
                       KICS 2022, June 2022 </span>
 
-<!-- ### preprints
+### preprints
 
-- LLM-augmented Multi-facet Blending for Faceted Query-by-Example Retrieval without Relevance Labels<br>Heejin Do, <b>Sangwon Ryu</b>, Jonghwi Kim, Gary Geunbae Lee<br> <span style="font-style: italic;">arxiv, August 2024 </span> -->
+- Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model<br>DaeHee Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">arxiv, September 2024 </span>
+<!-- - LLM-augmented Multi-facet Blending for Faceted Query-by-Example Retrieval without Relevance Labels<br>Heejin Do, <b>Sangwon Ryu</b>, Jonghwi Kim, Gary Geunbae Lee<br> <span style="font-style: italic;">arxiv, August 2024 </span> -->
 
 Teaching Experiences
 ------
 <!-- - Teaching Assistant, POSTECH
-  - Programming & Problem solving, Autumn 2024 -->
+  - Programming & Problem solving, Spring 2025 -->
 - Mentor, POSTECH, Undergraduate Research Participation
   - Text Summarization, February 2024 - June 2024
 - Lecturer, POSCO AI Application Expert Training
@@ -116,5 +115,5 @@ Other Experiences
 -----
 - Forklift Driver, September 2018 - December 2018
 - Bus Driver, Auxiliary Police, October 2016 - July 2018
-- GJJ, White Belt
+- GJJ, White Belt (I)
 - Interests in {Body Building, MMA, Grappling}

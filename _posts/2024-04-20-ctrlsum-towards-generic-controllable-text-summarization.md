@@ -32,8 +32,6 @@ use_math: true
 
 ## Analysis
 
-### Will G-Eval prefer LLM-based outputs?
-
 
 ## Conclusion
 

@@ -1,5 +1,5 @@
 ---
-title: "[Paper Review] SELFCHECKGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models (EMNLP 2024)"
+title: "[Paper Review] SELFCHECKGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models (EMNLP 2023)"
 date: "2024-09-16"
 permalink: /posts/2024/09/SELFCHECKGPT Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models/
 tags:

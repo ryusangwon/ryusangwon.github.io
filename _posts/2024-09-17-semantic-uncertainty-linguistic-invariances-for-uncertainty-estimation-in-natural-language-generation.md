@@ -119,4 +119,4 @@ Bidirectional equivalence 알고리즘은 M개의 샘플 중에 2개를 뽑아 �
 
 ## Conclusion
 
-해당 논문에서는 semantic entropy라는 개념을 제시하여, LLM의 uncertainty를 측정한다. NLG 태스크는 다른 태스크들과 다르게 다른 응답이라도 정확히 같은 의미를 내포할 수 있기에 의미있는 결과를 보여준다. 다만, figure가 해석하기 불편하기에 아쉬웠다.
+해당 논문에서는 semantic entropy라는 개념을 제시하여, LLM의 uncertainty를 측정한다. NLG 태스크는 다른 태스크들과 다르게 다른 응답이라도 정확히 같은 의미를 내포할 수 있기에 의미있는 결과를 보여준다. 같은 의미를 내포하는 지에 대해 평가하기 위해 sampling간의 bidirectional entailment 방법을 제안한다. 방법은 간단하지만 효과적으로 동작하기에 좋은 방법인 것 같다. 다만, figure가 해석하기 불편하기에 아쉬웠다.

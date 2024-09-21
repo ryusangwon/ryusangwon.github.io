@@ -1,7 +1,7 @@
 ---
-title: "[Paper Review] SEMANTIC UNCERTAINTY: LINGUISTIC INVARIANCES FOR UNCERTAINTY ESTIMATION IN NATURAL LANGUAGE GENERATION (ICLR 2023)"
+title: "[Paper Review] Semantic Uncertainty: Linguistic Invariances For Uncertainty Estimation in Natural Language Generation (ICLR 2023)"
 date: "2024-09-17"
-permalink: /posts/2024/09/SEMANTIC UNCERTAINTY LINGUISTIC INVARIANCES FOR UNCERTAINTY ESTIMATION IN NATURAL LANGUAGE GENERATION/
+permalink: /posts/2024/09/Semantic Uncertainty Linguistic Invariances For Uncertainty Estimation in Natural Language Generation/
 tags:
     - LLM Calibration
     - Hallucination Detection

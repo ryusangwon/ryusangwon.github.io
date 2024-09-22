@@ -84,7 +84,7 @@ Llama2-70B-Chat을 사용한 결과이다. Verbalized probability가 대부분 c
 
 따라서, 해당 다양한 결과들을 통해 추론할 수 있는 분석은 다음과 같다.
 
-1. 결과적으로 거대한 RLHF-LM은 conditional probability보다 더 좋은 calibrated 점수를 직접 verbalize할 수 있다. 
+1. 결과적으로 거대한 RLHF-LM은 conditional probability보다 더 좋은 calibrated 점수를 직접 verbalize할 수 있다.
 2. Verbailize probability를 직접 생성하는 것보다 여러 hypothesis를 생성하고 평가하는 것이 calibration의 효과를 증가시킨다. 
 3. Language model은 unceratinty를 *word*로 표현하는 것보다 *numerical probability*로 더 잘 표현한다는 것을 발견했다. 숫자를 잘 표현하지 못하는 것으로 알려진 LLM이기에 이 결과는 흥미롭다.
 4. Chain-of-thought 프롬프팅이 verbalized calibration의 성능을 향상시키지 못한다.
@@ -92,4 +92,4 @@ Llama2-70B-Chat을 사용한 결과이다. Verbalized probability가 대부분 c
 
 ## Conclusion
 
-해당 논문에서는 RLHF-LM의 calibration을 제대로 평가하기 위해 verbalized probability를 제안한다. 결과적으로 GPT 시리즈가 가장 잘 verbalized probability를 생성하였다. 아이디어는 단순하지만, 창의적인 방법을 통해 모델의 calibration을 평가한 것이 굉장히 흥미롭다. 
+해당 논문에서는 RLHF-LM의 calibration을 제대로 평가하기 위해 verbalized probability를 제안한다. 결과적으로 GPT 시리즈가 가장 잘 verbalized probability를 생성하였다. 아이디어는 단순하지만, 창의적인 방법을 통해 모델의 calibration을 평가한 것이 굉장히 흥미롭다. 해당 논문에서는 short-form question answering에 적용을 하였는데, 요약 태스크처럼 long-form 태스크에도 적용해볼 필요가 있을 것 같다.

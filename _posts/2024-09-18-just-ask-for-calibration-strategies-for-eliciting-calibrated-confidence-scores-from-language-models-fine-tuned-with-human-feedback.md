@@ -8,7 +8,7 @@ tags:
 use_math: true
 ---
 
-Semantic Uncertainty로 불확실성 측정하기
+RLHF-LM으로 자신감 점수를 생성하기
 
 ## Abstract
 

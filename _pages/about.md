@@ -47,7 +47,7 @@ Publications
 
 ### conferences
 
-- Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with Scoring-aware Multiple Rewards<br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">EMNLP 2024, August 2024 </span>
+- Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with Scoring-aware Multiple Rewards<br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">EMNLP 2024, August 2024 </span> <a href="https://arxiv.org/abs/2409.17472/">[paper]</a>
 - Key-Element-Informed sLLM Tuning for Document Summarization<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> INTERSPEECH 2024, September 2024 </span> <a href="https://www.isca-archive.org/interspeech_2024/ryu24_interspeech.html#">[paper]</a> <span style="color:lightgray;">(Oral presentation)</span>
 - Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024, August 2024 </span> <a href="https://aclanthology.org/2024.acl-long.319/">[paper]</a>
 - Comparative Analysis of Language Model Performance in News Domain Summarization<br>

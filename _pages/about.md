@@ -61,7 +61,7 @@ Publications
 ### preprints
 
 - Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model<br>DaeHee Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">arxiv, September 2024 </span> <a href="https://arxiv.org/abs/2409.07088/">[paper]</a>
-<!-- - LLM-augmented Multi-facet Blending for Faceted Query-by-Example Retrieval without Relevance Labels<br>Heejin Do, <b>Sangwon Ryu</b>, Jonghwi Kim, Gary Geunbae Lee<br> <span style="font-style: italic;"></span> --> -->
+<!-- - LLM-augmented Multi-facet Blending for Faceted Query-by-Example Retrieval without Relevance Labels<br>Heejin Do, <b>Sangwon Ryu</b>, Jonghwi Kim, Gary Geunbae Lee<br> <span style="font-style: italic;"></span> -->
 
 Teaching Experiences
 ------

@@ -47,9 +47,9 @@ Publications
 
 ### conferences
 
-- Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with Scoring-aware Multiple Rewards<br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">EMNLP 2024 (long), November 2024 </span> <a href="https://arxiv.org/abs/2409.17472/">[paper]</a>
+- Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with Scoring-aware Multiple Rewards<br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">EMNLP 2024, November 2024 </span> <a href="https://arxiv.org/abs/2409.17472/">[paper]</a>
 - Key-Element-Informed sLLM Tuning for Document Summarization<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> INTERSPEECH 2024, September 2024 </span> <a href="https://www.isca-archive.org/interspeech_2024/ryu24_interspeech.html#">[paper]</a> <span style="color:lightgray;">(Oral presentation)</span>
-- Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024 (long), August 2024 </span> <a href="https://aclanthology.org/2024.acl-long.319/">[paper]</a>
+- Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024, August 2024 </span> <a href="https://aclanthology.org/2024.acl-long.319/">[paper]</a>
 - Comparative Analysis of Language Model Performance in News Domain Summarization<br>
                   <b>Sangwon Ryu</b>, Yunsu Kim, Gary Geunbae Lee <br> <span style="font-style: italic;"> HCLT 2023, October 2023 </span><span style="color:lightgray;">(Oral presentation)</span>
 - Query Control for Fluent Query Focused Summarization<br>
@@ -62,6 +62,9 @@ Publications
 
 - Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model<br>DaeHee Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">arxiv, September 2024 </span> <a href="https://arxiv.org/abs/2409.07088/">[paper]</a>
 <!-- - LLM-augmented Multi-facet Blending for Faceted Query-by-Example Retrieval without Relevance Labels<br>Heejin Do, <b>Sangwon Ryu</b>, Jonghwi Kim, Gary Geunbae Lee<br> <span style="font-style: italic;"></span> -->
+
+### under review
+- Guide-to-Explain for Controllable Summarization <br><b>Sangwon Ryu</b>, Heejin Do, DaeHee Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br>
 
 Teaching Experiences
 ------
@@ -112,7 +115,7 @@ Patents and Copyrights
 
 Skills
 -----
-- Python, Pytorch, (vim, Nodejs, django, SQL, Android)
+- Python, Pytorch, (Vim, Nodejs, django, SQL, Android)
 
 Other Experiences
 -----

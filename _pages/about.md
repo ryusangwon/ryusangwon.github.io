@@ -54,8 +54,8 @@ Publications
 
 
 ### preprints
-- LLM-augmented Multi-facet Blending for Faceted Query-by-Example Retrieval without Relevance Labels<br>Heejin Do, <b>Sangwon Ryu</b>, Jonghwi Kim, Gary Geunbae Lee<br> <span style="font-style: italic;"></span>arXiv, December 2024
-- Guide-to-Explain for Controllable Summarization <br><b>Sangwon Ryu</b>, Heejin Do, DaeHee Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">arXiv, November 2024 </span> <a href="https://arxiv.org/abs/2411.12460/">[paper]</a>
+- LLM-augmented Multi-facet Blending for Faceted Query-by-Example Retrieval without Relevance Labels<br>Heejin Do, <b>Sangwon Ryu</b>, Jonghwi Kim, Gary Geunbae Lee<br> <span style="font-style: italic;">arXiv, December 2024</span> <a href="https://arxiv.org/abs/2412.01443">[paper]</a>
+- Guide-to-Explain for Controllable Summarization <br><b>Sangwon Ryu</b>, Heejin Do, DaeHee Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">arXiv, November 2024</span> <a href="https://arxiv.org/abs/2411.12460/">[paper]</a>
 - Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model<br>DaeHee Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">arXiv, September 2024 </span> <a href="https://arxiv.org/abs/2409.07088/">[paper]</a>
 
 
@@ -71,8 +71,8 @@ Publications
 
 Teaching Experiences
 ------
-<!-- - Teaching Assistant, POSTECH
-  - Programming & Problem solving, Spring 2025 -->
+- Teaching Assistant, POSTECH
+  - Artificial Intelligence Basics , Spring 2025
 - Mentor, POSTECH, Undergraduate Research Participation
   - Text Summarization, February 2024 - June 2024
 - Lecturer, POSCO AI Application Expert Training
@@ -89,6 +89,7 @@ Responsibilities
 
 Research Projects
 -----
+<!-- - English-Korean Translation<br>HYBE, Dec 2024 - current -->
 - MILAINA: Multi-Lingual AI News Agent<br>National Research Foundation of Korea (NRF), *Principal Investigator*, June 2023 - current
 - Development and Verification of Online Hate Speech Identification Model<br>National Research Foundation of Korea (NRF), July 2022 - December 2022
 

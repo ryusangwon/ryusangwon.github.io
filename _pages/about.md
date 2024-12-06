@@ -17,8 +17,8 @@ ryusangwon@postech.ac.kr
 Research Interest
 ======
 - Natural Language Processing
-- Large Language Model
 - Text Summarization
+- Large Language Model
 - Reinforcement Learning
 - Data Mining
 
@@ -88,9 +88,12 @@ Responsibilities
 
 Research Projects
 -----
-<!-- - English-Korean Translation<br>HYBE, Dec 2024 - current -->
+- Development of Machine Translation <br>HYBE, *Principal Investigator*, Dec 2024 - current
+  - Machine translation, post-editing
 - MILAINA: Multi-Lingual AI News Agent<br>National Research Foundation of Korea (NRF), *Principal Investigator*, June 2023 - current
+  - Multi-lingual text summarization
 - Development and Verification of Online Hate Speech Identification Model<br>National Research Foundation of Korea (NRF), July 2022 - December 2022
+  - Hate speech data preprocessing
 
 Application Projects
 -----
@@ -121,5 +124,5 @@ Other Experiences
 -----
 - Forklift Driver, September 2018 - December 2018
 - Bus Driver, Auxiliary Police, October 2016 - July 2018
-- GJJ, White Belt (I)
+- GJJ, White Belt (II)
 - Interests in {Body Building, MMA, Grappling}

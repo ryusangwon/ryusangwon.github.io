@@ -17,9 +17,9 @@ ryusangwon@postech.ac.kr
 Research Interest
 ======
 - Natural Language Processing
+- Reinforcement Learning
 - Text Summarization
 - Large Language Model
-- Reinforcement Learning
 - Data Mining
 
 Education
@@ -83,7 +83,7 @@ Teaching Experiences
 Responsibilities
 -----
 - Reviewer
-  - Conference: ACL (SRW 2024)
+  - Conference: ARR (2025), ACL (SRW 2024)
   - Journal: TASL (2024)
 
 Research Projects
@@ -93,7 +93,7 @@ Research Projects
 - MILAINA: Multi-Lingual AI News Agent<br>National Research Foundation of Korea (NRF), *Principal Investigator*, June 2023 - current
   - Multi-lingual text summarization
 - Development and Verification of Online Hate Speech Identification Model<br>National Research Foundation of Korea (NRF), July 2022 - December 2022
-  - Hate speech data preprocessing
+  - Hate speech data construction
 
 Application Projects
 -----

@@ -36,7 +36,7 @@ Research Experiences
 ------
 - Research Assistant, POSTECH, <a href="https://sites.google.com/view/nlppostech/">NLP Group</a>, February 2023 - current<br>Advised by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a> and Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> 
 - Research Intern, Ajou University, <a href="https://sites.google.com/site/kasohn/group/">Lamda Lab</a>, February 2022 - December 2022<br>Advised by Prof. <a href="https://sites.google.com/site/kasohn/group/">Kyung-Ah Sohn</a>
-- Research Intern, Ajou University, <a href="https://sites.google.com/view/hmsl/">HMS Lab</a>, February 2021 - December 2021<br>Advised by Prof. <a href="https://sites.google.com/view/sangeunoh/">Sangeun Oh</a>
+- Research Intern, Ajou University, <a href="https://sites.google.com/view/meslab-ku/">HMS Lab</a>, February 2021 - December 2021<br>Advised by Prof. <a href="https://sites.google.com/view/sangeunoh/">Sangeun Oh</a>
 
 Publications
 -----
@@ -45,8 +45,8 @@ Publications
 ----
 
 ### conferences
-<!-- - Towards Prompt Generalization: Grammar-aware Cross-Prompt Automated Essay Scoring<br>Heejin Do, Taehee Park, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;"></span>NAACL 2025, April 2025 
-- Revisiting Early Detection of Sexual Predators via Turn-level Optimization<br>Jinmyeong an, <b>Sangwon Ryu</b>, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee<br> <span style="font-style: italic;"></span>NAACL 2025, April 2025  -->
+- Towards Prompt Generalization: Grammar-aware Cross-Prompt Automated Essay Scoring<br>Heejin Do, Taehee Park, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;"></span>NAACL Findings 2025, April 2025 
+- Revisiting Early Detection of Sexual Predators via Turn-level Optimization<br>Jinmyeong an, <b>Sangwon Ryu</b>, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee<br> <span style="font-style: italic;"></span>NAACL 2025, April 2025 
 - Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with Scoring-aware Multiple Rewards<br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">EMNLP 2024, November 2024 </span> <a href="https://aclanthology.org/2024.emnlp-main.917/">[paper]</a>
 - Key-Element-Informed sLLM Tuning for Document Summarization<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> INTERSPEECH 2024, September 2024 </span> <a href="https://www.isca-archive.org/interspeech_2024/ryu24_interspeech.html#">[paper]</a> <span style="color:lightgray;">(Oral presentation)</span>
 - Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024, August 2024 </span> <a href="https://aclanthology.org/2024.acl-long.319/">[paper]</a>

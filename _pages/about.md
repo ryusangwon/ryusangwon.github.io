@@ -88,7 +88,7 @@ Responsibilities
 
 Research Projects
 -----
-- Development of Machine Translation <br>HYBE, *Principal Investigator*, Dec 2024 - current
+- Development of Machine Translation <br>HYBE & Seoul National University, *Principal Investigator*, Dec 2024 - current
   - Machine translation, post-editing
 - MILAINA: Multi-Lingual AI News Agent<br>National Research Foundation of Korea (NRF), *Principal Investigator*, June 2023 - current
   - Multi-lingual text summarization
@@ -104,6 +104,7 @@ Application Projects
 
 Awards and Certificates
 -----
+- Samsung MX Scholarship, January 2025 - current
 - Best Paper Award, KCSE (2023)
 - SOFTCON Research Excellence Award, Ajou University (2022)
 - Big Data Analysis Practice Level 2

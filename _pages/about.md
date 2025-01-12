@@ -35,7 +35,7 @@ Education
 Research Experiences
 ------
 - Samsung Electronics MX, September 2026 (expected)
-- Research Assistant, POSTECH, <a href="https://sites.google.com/view/nlppostech/">NLP Group</a>, February 2023 - current<br>Advised by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a> and Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> 
+- Research Assistant, POSTECH, <a href="https://sites.google.com/view/nlppostech/">NLP Group</a>, February 2023 - October 2026 (expected)<br>Advised by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a> and Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> 
 - Research Intern, Ajou University, <a href="https://sites.google.com/site/kasohn/group/">Lamda Lab</a>, February 2022 - December 2022<br>Advised by Prof. <a href="https://sites.google.com/site/kasohn/group/">Kyung-Ah Sohn</a>
 - Research Intern, Ajou University, <a href="https://sites.google.com/view/meslab-ku/">HMS Lab</a>, February 2021 - December 2021<br>Advised by Prof. <a href="https://sites.google.com/view/sangeunoh/">Sangeun Oh</a>
 

@@ -34,8 +34,8 @@ Education
 
 Research Experiences
 ------
-<!-- - Samsung Electronics MX, September 2026 (expected) -->
-- Research Assistant, POSTECH, <a href="https://sites.google.com/view/nlppostech/">NLP Group</a>, February 2023 - October 2026 (expected)<br>Advised by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a> and Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> 
+
+- Research Assistant, POSTECH, <a href="https://sites.google.com/view/nlppostech/">NLP Group</a>, February 2023 - August 2026 (expected)<br>Advised by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a> and Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> 
 - Research Intern, Ajou University, <a href="https://sites.google.com/site/kasohn/group/">Lamda Lab</a>, February 2022 - December 2022<br>Advised by Prof. <a href="https://sites.google.com/site/kasohn/group/">Kyung-Ah Sohn</a>
 - Research Intern, Ajou University, <a href="https://sites.google.com/view/meslab-ku/">HMS Lab</a>, February 2021 - December 2021<br>Advised by Prof. <a href="https://sites.google.com/view/sangeunoh/">Sangeun Oh</a>
 
@@ -46,16 +46,17 @@ Publications
 ----
 
 ### conferences
-- Towards Prompt Generalization: Grammar-aware Cross-Prompt Automated Essay Scoring<br>Heejin Do, Taehee Park, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;"></span>NAACL Findings 2025, April 2025 
-- Revisiting Early Detection of Sexual Predators via Turn-level Optimization<br>Jinmyeong an, <b>Sangwon Ryu</b>, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee<br> <span style="font-style: italic;"></span>NAACL 2025, April 2025 
+- Teach-to-Reason before Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring<br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">under review</span> <a href="">[paper]</a> 
+- LLM-augmented Multi-facet Blending for Faceted Query-by-Example Retrieval without Relevance Labels<br>Heejin Do*, <b>Sangwon Ryu*</b>, Jonghwi Kim, Gary Geunbae Lee<br> <span style="font-style: italic;">under review</span> <a href="">[paper]</a>
+- Exploring Iterative Controllable Summarization for Large Language Models<br><b>Sangwon Ryu</b>, Heejin Do, DaeHee Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">under review</span> <a href="https://arxiv.org/abs/2411.12460">[paper]</a>
+- Towards Prompt Generalization: Grammar-aware Cross-Prompt Automated Essay Scoring<br>Heejin Do, Taehee Park, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL Findings 2025, April 2025 </span><a href="https://arxiv.org/abs/2502.08450">[paper]</a>
+- Revisiting Early Detection of Sexual Predators via Turn-level Optimization<br>Jinmyeong an, <b>Sangwon Ryu</b>, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL 2025, April 2025 </span><a href="https://arxiv.org/abs/2503.06627">[paper]</a> <span style="color:lightgray;">(Oral presentation)</span>
 - Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with Scoring-aware Multiple Rewards<br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">EMNLP 2024, November 2024 </span> <a href="https://aclanthology.org/2024.emnlp-main.917/">[paper]</a>
 - Key-Element-Informed sLLM Tuning for Document Summarization<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> INTERSPEECH 2024, September 2024 </span> <a href="https://www.isca-archive.org/interspeech_2024/ryu24_interspeech.html#">[paper]</a> <span style="color:lightgray;">(Oral presentation)</span>
 - Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024, August 2024 </span> <a href="https://aclanthology.org/2024.acl-long.319/">[paper]</a>
 
 
 ### preprints
-- LLM-augmented Multi-facet Blending for Faceted Query-by-Example Retrieval without Relevance Labels<br>Heejin Do, <b>Sangwon Ryu</b>, Jonghwi Kim, Gary Geunbae Lee<br> <span style="font-style: italic;">arXiv, December 2024</span> <a href="https://arxiv.org/abs/2412.01443">[paper]</a>
-- Guide-to-Explain for Controllable Summarization <br><b>Sangwon Ryu</b>, Heejin Do, DaeHee Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">arXiv, November 2024</span> <a href="https://arxiv.org/abs/2411.12460/">[paper]</a>
 - Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model<br>DaeHee Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">arXiv, September 2024 </span> <a href="https://arxiv.org/abs/2409.07088/">[paper]</a>
 
 
@@ -72,7 +73,7 @@ Publications
 Teaching Experiences
 ------
 - Teaching Assistant, POSTECH
-  - Artificial Intelligence Basics , Spring 2025
+  - Introduction to Artificial Intelligence (CSED105), Spring 2025
 - Mentor, POSTECH, Undergraduate Research Participation
   - Text Summarization, February 2024 - June 2024
 - Lecturer, POSCO AI Application Expert Training
@@ -84,8 +85,9 @@ Teaching Experiences
 Responsibilities
 -----
 - Reviewer
-  - Conference: ARR (2025), ACL (SRW 2024)
-  - Journal: TASL (2024)
+  - Conference: ARR (2025)
+  - Journal: TASL (2024, 2025)
+  - Workshop: ACL (SRW 2024)
 
 Research Projects
 -----
@@ -95,10 +97,15 @@ Research Projects
   - Multi-lingual text summarization
 - Development and Verification of Online Hate Speech Identification Model<br>National Research Foundation of Korea (NRF), July 2022 - December 2022
   - Hate speech data construction
+  
+Talks
+-----
+- Cohere For AI, Optimizing Text Summarization in Multiple Dimensions
+  - Presented by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a> <a href="https://www.youtube.com/watch?v=fl1Ea7eZIZA">[video]</a>
 
 Awards and Certificates
 -----
-<!-- - Samsung Electronics MX Scholarship, January 2025 - current -->
+<!-- - Samsung Electronics MX Scholarship, August 2025 - current -->
 - Best Paper Award, KCSE (2023)
 - SOFTCON Research Excellence Award, Ajou University (2022)
 - Big Data Analysis Practice Level 2
@@ -119,5 +126,5 @@ Other Experiences
 -----
 - Forklift Driver, September 2018 - December 2018
 - Bus Driver, Auxiliary Police, October 2016 - July 2018
-- GJJ, White Belt (II)
+- GJJ, White Belt (III)
 - Interests in {Body Building, MMA, Grappling}

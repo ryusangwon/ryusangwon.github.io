@@ -46,7 +46,7 @@ Publications
 ----
 
 ### conferences
-- Teach-to-Reason before Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring<br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">under review</span> <a href="">[paper]</a> 
+<!-- - Teach-to-Reason before Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring<br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">under review</span> <a href="">[paper]</a>  -->
 - LLM-augmented Multi-facet Blending for Faceted Query-by-Example Retrieval without Relevance Labels<br>Heejin Do*, <b>Sangwon Ryu*</b>, Jonghwi Kim, Gary Geunbae Lee<br> <span style="font-style: italic;">under review</span> <a href="">[paper]</a>
 - Exploring Iterative Controllable Summarization for Large Language Models<br><b>Sangwon Ryu</b>, Heejin Do, DaeHee Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">under review</span> <a href="https://arxiv.org/abs/2411.12460">[paper]</a>
 - Towards Prompt Generalization: Grammar-aware Cross-Prompt Automated Essay Scoring<br>Heejin Do, Taehee Park, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL Findings 2025, April 2025 </span><a href="https://arxiv.org/abs/2502.08450">[paper]</a>

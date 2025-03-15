@@ -15,9 +15,10 @@ ryusangwon@postech.ac.kr
 ----
 
 Research Interest
-======
+-----
 - Natural Language Processing
 - Reinforcement Learning
+- Planning & Decoding Strategy
 - Text Summarization
 - Large Language Model
 - Data Mining
@@ -46,27 +47,28 @@ Publications
 ----
 
 ### conferences
-<!-- - Teach-to-Reason before Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring<br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">under review</span> <a href="">[paper]</a>  -->
-- LLM-augmented Multi-facet Blending for Faceted Query-by-Example Retrieval without Relevance Labels<br>Heejin Do*, <b>Sangwon Ryu*</b>, Jonghwi Kim, Gary Geunbae Lee<br> <span style="font-style: italic;">under review</span> <a href="">[paper]</a>
-- Exploring Iterative Controllable Summarization for Large Language Models<br><b>Sangwon Ryu</b>, Heejin Do, DaeHee Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">under review</span> <a href="https://arxiv.org/abs/2411.12460">[paper]</a>
-- Towards Prompt Generalization: Grammar-aware Cross-Prompt Automated Essay Scoring<br>Heejin Do, Taehee Park, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL Findings 2025, April 2025 </span><a href="https://arxiv.org/abs/2502.08450">[paper]</a>
-- Revisiting Early Detection of Sexual Predators via Turn-level Optimization<br>Jinmyeong an, <b>Sangwon Ryu</b>, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL 2025, April 2025 </span><a href="https://arxiv.org/abs/2503.06627">[paper]</a> <span style="color:lightgray;">(Oral presentation)</span>
-- Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with Scoring-aware Multiple Rewards<br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">EMNLP 2024, November 2024 </span> <a href="https://aclanthology.org/2024.emnlp-main.917/">[paper]</a>
-- Key-Element-Informed sLLM Tuning for Document Summarization<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> INTERSPEECH 2024, September 2024 </span> <a href="https://www.isca-archive.org/interspeech_2024/ryu24_interspeech.html#">[paper]</a> <span style="color:lightgray;">(Oral presentation)</span>
-- Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning<br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024, August 2024 </span> <a href="https://aclanthology.org/2024.acl-long.319/">[paper]</a>
+
+- <a href="https://arxiv.org/abs/2502.08450">Towards Prompt Generalization: Grammar-aware Cross-Prompt Automated Essay Scoring</a><br>Heejin Do, Taehee Park, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL Findings 2025, April 2025 </span>
+- <a href="https://arxiv.org/abs/2503.06627">Revisiting Early Detection of Sexual Predators via Turn-level Optimization</a><br>Jinmyeong an, <b>Sangwon Ryu</b>, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL 2025, April 2025 </span><span style="color:coral;">(Oral presentation)</span>
+- <a href="https://aclanthology.org/2024.emnlp-main.917/">Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with Scoring-aware Multiple Rewards</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">EMNLP 2024, November 2024 </span> 
+- <a href="https://www.isca-archive.org/interspeech_2024/ryu24_interspeech.html#">Key-Element-Informed sLLM Tuning for Document Summarization</a><br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> INTERSPEECH 2024, September 2024 </span><span style="color:coral;">(Oral presentation)</span>
+- <a href="https://aclanthology.org/2024.acl-long.319/">Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning</a><br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024, August 2024 </span>
 
 
 ### preprints
-- Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model<br>DaeHee Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">arXiv, September 2024 </span> <a href="https://arxiv.org/abs/2409.07088/">[paper]</a>
+- <a href="https://arxiv.org/abs/2502.20748">Teach-to-Reason with Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
+- <a href="https://arxiv.org/abs/2412.01443">LLM-augmented Multi-facet Blending for Faceted Query-by-Example Retrieval without Relevance Labels</a><br>Heejin Do*, <b>Sangwon Ryu*</b>, Jonghwi Kim, Gary Geunbae Lee<br>
+- <a href="https://arxiv.org/abs/2411.12460">Exploring Iterative Controllable Summarization for Large Language Models</a><br><b>Sangwon Ryu</b>, Heejin Do, DaeHee Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br>
+- <a href="https://arxiv.org/abs/2409.07088/">Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model</a><br>DaeHee Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
 
 
 ### domestic conferences
 
-- Comparative Analysis of Language Model Performance in News Domain Summarization<br>
-                  <b>Sangwon Ryu</b>, Yunsu Kim, Gary Geunbae Lee <br> <span style="font-style: italic;"> HCLT 2023, October 2023 </span><span style="color:lightgray;">(Oral presentation)</span>
-- Query Control for Fluent Query Focused Summarization<br>
-                  <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;"> KCSE 2023, February 2023 </span><span style="color:lightgray;">(Best paper award, Oral presentation)</span>
-- NLI Style Few-shot Learning with Supervised Contrastive Loss<br>
+- <a href="">Comparative Analysis of Language Model Performance in News Domain Summarization</a><br>
+                  <b>Sangwon Ryu</b>, Yunsu Kim, Gary Geunbae Lee <br> <span style="font-style: italic;"> HCLT 2023, October 2023 </span><span style="color:coral;">(Oral presentation)</span>
+- <a href="">Query Control for Fluent Query Focused Summarization</a><br>
+                  <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;"> KCSE 2023, February 2023 </span><span style="color:coral;">(Best paper award, Oral presentation)</span>
+- <a href="">NLI Style Few-shot Learning with Supervised Contrastive Loss</a><br>
                   <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;">
                       KICS 2022, June 2022 </span>
 

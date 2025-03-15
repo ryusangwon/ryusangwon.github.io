@@ -102,8 +102,8 @@ Research Projects
   
 Talks
 -----
-- Cohere For AI, Optimizing Text Summarization in Multiple Dimensions
-  - Presented by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a> <a href="https://www.youtube.com/watch?v=fl1Ea7eZIZA">[video]</a>
+- Cohere For AI, <a href="https://www.youtube.com/watch?v=fl1Ea7eZIZA">Optimizing Text Summarization in Multiple Dimensions</a>
+  - Presented by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a>
 
 Awards and Certificates
 -----

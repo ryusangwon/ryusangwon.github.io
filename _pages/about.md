@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm PhD student at Pohang university of Science & Technology (POSTECH).
+I'm PhD student at Pohang University of Science & Technology (POSTECH).
 
 ryusangwon@postech.ac.kr
 

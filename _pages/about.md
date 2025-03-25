@@ -49,7 +49,7 @@ Publications
 ### conferences
 
 - <a href="https://arxiv.org/abs/2502.08450">Towards Prompt Generalization: Grammar-aware Cross-Prompt Automated Essay Scoring</a><br>Heejin Do, Taehee Park, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL Findings 2025, April 2025 </span>
-- <a href="https://arxiv.org/abs/2503.06627">Revisiting Early Detection of Sexual Predators via Turn-level Optimization</a><br>Jinmyeong an, <b>Sangwon Ryu</b>, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL 2025, April 2025 </span><span style="color:coral;">(Oral presentation)</span>
+- <a href="https://arxiv.org/abs/2503.06627">Revisiting Early Detection of Sexual Predators via Turn-level Optimization</a><br>Jinmyeong An, <b>Sangwon Ryu</b>, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL 2025, April 2025 </span><span style="color:coral;">(Oral presentation)</span>
 - <a href="https://aclanthology.org/2024.emnlp-main.917/">Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with Scoring-aware Multiple Rewards</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">EMNLP 2024, November 2024 </span> 
 - <a href="https://www.isca-archive.org/interspeech_2024/ryu24_interspeech.html#">Key-Element-Informed sLLM Tuning for Document Summarization</a><br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> INTERSPEECH 2024, September 2024 </span><span style="color:coral;">(Oral presentation)</span>
 - <a href="https://aclanthology.org/2024.acl-long.319/">Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning</a><br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024, August 2024 </span>
@@ -88,7 +88,7 @@ Responsibilities
 -----
 - Reviewer
   - Conference: ARR (2025)
-  - Journal: TASL (2024, 2025)
+  - Journal: TASLP (2024, 2025)
   - Workshop: ACL (SRW 2024)
 
 Research Projects

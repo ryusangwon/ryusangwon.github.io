@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm PhD student at Pohang University of Science & Technology (POSTECH).
+I'm PhD student at Pohang University of Science & Technology (POSTECH). 
 
 ryusangwon@postech.ac.kr
 
@@ -48,16 +48,18 @@ Publications
 
 ### conferences
 
-- <a href="https://arxiv.org/abs/2502.08450">Towards Prompt Generalization: Grammar-aware Cross-Prompt Automated Essay Scoring</a><br>Heejin Do, Taehee Park, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL Findings 2025, April 2025 </span>
-- <a href="https://arxiv.org/abs/2503.06627">Revisiting Early Detection of Sexual Predators via Turn-level Optimization</a><br>Jinmyeong An, <b>Sangwon Ryu</b>, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL 2025, April 2025 </span><span style="color:coral;">(Oral presentation)</span>
+- <a href="https://arxiv.org/abs/2412.01443">Multi-facet Blending for Faceted Query-by-Example Retrieval</a><br>Heejin Do*, <b>Sangwon Ryu*</b>, Jonghwi Kim, Gary Geunbae Lee<br><span style="font-style: italic;">ACL 2025, April 2025 </span>
+- <a href="https://aclanthology.org/2025.findings-naacl.153/">Towards Prompt Generalization: Grammar-aware Cross-Prompt Automated Essay Scoring</a><br>Heejin Do, Taehee Park, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL Findings 2025, April 2025 </span>
+- <a href="https://aclanthology.org/2025.naacl-long.241/">Revisiting Early Detection of Sexual Predators via Turn-level Optimization</a><br>Jinmyeong An, <b>Sangwon Ryu</b>, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL 2025, April 2025 </span><span style="color:coral;">(Oral presentation)</span>
 - <a href="https://aclanthology.org/2024.emnlp-main.917/">Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with Scoring-aware Multiple Rewards</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">EMNLP 2024, November 2024 </span> 
 - <a href="https://www.isca-archive.org/interspeech_2024/ryu24_interspeech.html#">Key-Element-Informed sLLM Tuning for Document Summarization</a><br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> INTERSPEECH 2024, September 2024 </span><span style="color:coral;">(Oral presentation)</span>
 - <a href="https://aclanthology.org/2024.acl-long.319/">Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning</a><br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024, August 2024 </span>
 
 
 ### preprints
+
+<!-- - <a href="">GuRE:Generative Query REwriter for Legal Passage Retrieval</a><br>DaeHee Kim, Deokhyung Kang, Jonghwi Kim, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br><span style="font-style: italic;">ACL 2025, April 2025 </span> -->
 - <a href="https://arxiv.org/abs/2502.20748">Teach-to-Reason with Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
-- <a href="https://arxiv.org/abs/2412.01443">Multi-facet Blending for Faceted Query-by-Example Retrieval</a><br>Heejin Do*, <b>Sangwon Ryu*</b>, Jonghwi Kim, Gary Geunbae Lee<br>
 - <a href="https://arxiv.org/abs/2411.12460">Exploring Iterative Controllable Summarization for Large Language Models</a><br><b>Sangwon Ryu</b>, Heejin Do, DaeHee Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br>
 - <a href="https://arxiv.org/abs/2409.07088/">Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model</a><br>DaeHee Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
 
@@ -128,5 +130,6 @@ Other Experiences
 -----
 - Forklift Driver, September 2018 - December 2018
 - Bus Driver, Auxiliary Police, October 2016 - July 2018
-- GJJ, White Belt (III)
+- BJJ, White Belt (III)
 - Interests in {Body Building, MMA, Grappling}
+- The harder I work, the luckier I get.

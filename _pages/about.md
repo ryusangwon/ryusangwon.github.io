@@ -58,9 +58,9 @@ Publications
 
 ### preprints
 
-<!-- - <a href="">GuRE:Generative Query REwriter for Legal Passage Retrieval</a><br>DaeHee Kim, Deokhyung Kang, Jonghwi Kim, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br><span style="font-style: italic;">ACL 2025, April 2025 </span> -->
+- <a href="https://arxiv.org/abs/2505.12950">GuRE:Generative Query REwriter for Legal Passage Retrieval</a><br>Daehee Kim, Deokhyung Kang, Jonghwi Kim, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
 - <a href="https://arxiv.org/abs/2502.20748">Teach-to-Reason with Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
-- <a href="https://arxiv.org/abs/2411.12460">Exploring Iterative Controllable Summarization for Large Language Models</a><br><b>Sangwon Ryu</b>, Heejin Do, DaeHee Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br>
+- <a href="https://arxiv.org/abs/2411.12460">Exploring Iterative Controllable Summarization for Large Language Models</a><br><b>Sangwon Ryu</b>, Heejin Do, Daehee Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br>
 - <a href="https://arxiv.org/abs/2409.07088/">Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model</a><br>DaeHee Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
 
 

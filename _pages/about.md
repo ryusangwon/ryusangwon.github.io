@@ -99,7 +99,7 @@ Responsibilities ⏰
   - Journal: TASLP (2024, 2025)
   - Workshop: ACL (SRW 2024)
 
-Research Projects 📺
+Research Projects 🏭
 -----
 - Development of Machine Translation <br>HYBE & Seoul National University, *Principal Investigator*, Dec 2024 - current
   - Machine translation, post-editing
@@ -122,7 +122,7 @@ Awards and Certificates 🏆
 - Recognition Award, Gyeonggi Nambu Provincial Police Agency (2017)
 - Excellence Recruit, Korea Army (2016)
 
-Patents and Copyrights ✅
+Patents and Copyrights 💼
 -----
 - Instruction Tuned sLLM for News Summarization<br>*Copyright*, Registration Number: C-2024-000076
 - sLLM Tuning method for News Summarization, device for the same, and method for generating news summarization<br>*Patent*, Registration Number: 10-2023-0191656

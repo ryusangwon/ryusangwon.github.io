@@ -14,7 +14,7 @@ Feel free to contact via email [ryusangwon@postech.ac.kr](mailto:ryusangwon@post
 News! 🗞️
 -----
 `[2025-05-16] 🎉 One paper accepted at ACL 2025`<br>
-`[2025-01-23] 🎉 Two paper accepted at NAACL 2025 (including one Oral)`<br>
+`[2025-01-23] 🎉 Two papers accepted at NAACL 2025 (including one Oral)`<br>
 `[2024-11-19] 👏 A new preprint is out: Controllable summarization with LLMs`<br>
 `[2024-09-21] 🎉 One paper accepted at EMNLP 2024`<br>
 `[2024-06-04] 🎉 One paper accepted at INTERSPEECH 2024 (Oral)`<br>

@@ -113,7 +113,7 @@ Talks 🎙️
 - Cohere For AI, <a href="https://www.youtube.com/watch?v=fl1Ea7eZIZA">Optimizing Text Summarization in Multiple Dimensions</a>
   - Presented by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a>
 
-Awards and Certificates 🏆
+Awards and Certificates 🏅
 -----
 <!-- - Samsung Electronics MX Scholarship, August 2025 - current -->
 - Best Paper Award, KCSE (2023)

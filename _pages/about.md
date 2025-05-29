@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me 🏋️‍♂️"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 I'm PhD student at Pohang University of Science & Technology (POSTECH). <br>
 Feel free to contact via email [ryusangwon@postech.ac.kr](mailto:ryusangwon@postech.ac.kr).
 
-News! 🗞️
+News 🗞️
 -----
 `[May, 2025] 🎉 One paper accepted at ACL 2025`<br>
 `[Jan, 2025] 🎉 Two papers accepted at NAACL 2025 (including one Oral)`<br>

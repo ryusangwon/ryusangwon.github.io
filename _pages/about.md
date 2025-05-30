@@ -33,7 +33,7 @@ Education 📚
 -----
 - POSTECH
   - Ph.D. student in Graduate School of Artifical Intelligence
-                  <br>Advised by Prof. <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> and <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a>
+                  <br>Advised by Prof. <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> and <a href="https://www.yunsukim.me/">Yunsu Kim</a>
                   
 - Ajou University
   - B.S. in Software and Computer Engineering

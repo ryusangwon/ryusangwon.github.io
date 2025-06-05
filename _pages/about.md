@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm PhD student at Pohang University of Science & Technology (POSTECH). <br>
-Feel free to contact via email [ryusangwon@postech.ac.kr](mailto:ryusangwon@postech.ac.kr).
+I'm PhD student at POSTECH AI. My research interests lie in various areas of text summarization and reinforcement learning. I am fortunated to be advised by <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> and <a href="https://www.yunsukim.me/">Yunsu Kim</a>. My research is supported by Samsung Electronics MX Scholarship. Feel free to contact via email [ryusangwon@postech.ac.kr](mailto:ryusangwon@postech.ac.kr).
 
 News 🗞️
 -----

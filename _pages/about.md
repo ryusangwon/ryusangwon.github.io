@@ -115,7 +115,7 @@ Talks 🎙️
 
 Awards and Certificates 🏅
 -----
-- Samsung Electronics MX Scholarship,  2025 - current
+- Samsung Electronics MX Scholarship (2025)
 - Best Paper Award, KCSE (2023)
 - SOFTCON Research Excellence Award, Ajou University (2022)
 - Big Data Analysis Practice Level 2

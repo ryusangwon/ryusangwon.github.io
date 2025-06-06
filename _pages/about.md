@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm PhD student at POSTECH AI. My research interests lie in various areas of text summarization and reinforcement learning. I am fortunated to be advised by <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> and <a href="https://www.yunsukim.me/">Yunsu Kim</a>. My research is supported by Samsung Electronics MX Scholarship. Feel free to contact via email [ryusangwon@postech.ac.kr](mailto:ryusangwon@postech.ac.kr).
+I'm PhD student at <a href="https://ai.postech.ac.kr/">POSTECH AI</a>. My research interests lie in various areas of text summarization and reinforcement learning. I am fortunated to be advised by <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> and <a href="https://www.yunsukim.me/">Yunsu Kim</a>. My research is supported by Samsung Electronics MX Scholarship. Feel free to contact via email [ryusangwon@postech.ac.kr](mailto:ryusangwon@postech.ac.kr).
 
 News 🗞️
 -----
+`[Jun, 2025] 🎊 Selected for the Samsung Electronics MX Scholarship`<br>
 `[May, 2025] 🎉 One paper accepted at ACL 2025`<br>
 `[Jan, 2025] 🎉 Two papers accepted at NAACL 2025 (including one Oral)`<br>
 `[Nov, 2024] 👏 A new preprint is out: Controllable summarization with LLMs`<br>

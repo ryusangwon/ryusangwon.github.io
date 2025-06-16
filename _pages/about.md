@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm PhD student at <a href="https://ai.postech.ac.kr/">POSTECH AI</a>. My research interests lie in various areas of text summarization and reinforcement learning. I am fortunated to be advised by <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> and <a href="https://www.yunsukim.me/">Yunsu Kim</a>. My research is supported by Samsung Electronics MX Scholarship. Feel free to contact via email [ryusangwon@postech.ac.kr](mailto:ryusangwon@postech.ac.kr).
+I'm PhD student at <a href="https://ai.postech.ac.kr/">POSTECH AI</a>. My research interests lie in various areas of text summarization and reinforcement learning. I am fortunated to be advised by <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> and <a href="https://www.yunsukim.me/">Yunsu Kim</a>. My research is supported by <a href="https://www.samsung-dxrecruit.com/dept/detail/C0003">Samsung Electronics MX Scholarship</a>. Feel free to contact via email [ryusangwon@postech.ac.kr](mailto:ryusangwon@postech.ac.kr).
 
 News 🗞️
 -----
@@ -95,7 +95,7 @@ Teaching Experiences 👨‍🏫
 Responsibilities ⏰
 -----
 - Reviewer
-  - Conference: ARR (2025)
+  - Conference: ARR (including ACL, EMNLP, NAACL) (2025)
   - Journal: TASLP (2024, 2025)
   - Workshop: ACL (SRW 2024)
 

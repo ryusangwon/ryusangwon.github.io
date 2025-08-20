@@ -14,7 +14,7 @@ News 🗞️
 -----
 `[Jun, 2025] 🎊 Selected for the Samsung Electronics MX Scholarship`<br>
 `[May, 2025] 🎉 One paper accepted at ACL 2025`<br>
-`[Jan, 2025] 🎉 Two papers accepted at NAACL 2025 (including one Oral)`<br>
+`[Jan, 2025] 🎉 Two papers accepted at NAACL 2025 (one Oral, one Findings)`<br>
 `[Nov, 2024] 👏 A new preprint is out: Controllable summarization with LLMs`<br>
 `[Sep, 2024] 🎉 One paper accepted at EMNLP 2024`<br>
 `[Jun, 2024] 🎉 One paper accepted at INTERSPEECH 2024 (Oral)`<br>
@@ -22,12 +22,8 @@ News 🗞️
 
 Research Interest 💡
 -----
-- Natural Language Processing
-- Reinforcement Learning
-- Planning & Decoding Strategy
-- Text Summarization
-- Large Language Model
-- Data Mining
+- Natural Language Processing (Summarization, Controllable Generation, LLMs etc.)
+- Reinforcement Learning (Planning, Multi-Object Optimization, Decoding Strategy etc.)
 
 Education 📚
 -----
@@ -64,31 +60,24 @@ Publications 📖
 
 ### preprints
 
+- <a href="https://arxiv.org/abs/2411.12460">Exploring Iterative Controllable Summarization for Large Language Models</a><br><b>Sangwon Ryu</b>, Heejin Do, Daehee Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br>
 - <a href="https://arxiv.org/abs/2505.12950">GuRE:Generative Query REwriter for Legal Passage Retrieval</a><br>Daehee Kim, Deokhyung Kang, Jonghwi Kim, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
 - <a href="https://arxiv.org/abs/2502.20748">Teach-to-Reason with Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
-- <a href="https://arxiv.org/abs/2411.12460">Exploring Iterative Controllable Summarization for Large Language Models</a><br><b>Sangwon Ryu</b>, Heejin Do, Daehee Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br>
 - <a href="https://arxiv.org/abs/2409.07088/">Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model</a><br>Daehee Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
 
-
-### domestic conferences
-
-- <a href="">Comparative Analysis of Language Model Performance in News Domain Summarization</a><br>
-                  <b>Sangwon Ryu</b>, Yunsu Kim, Gary Geunbae Lee <br> <span style="font-style: italic;"> HCLT 2023 </span><span style="color:coral;">(Oral presentation)</span>
-- <a href="">Query Control for Fluent Query Focused Summarization</a><br>
-                  <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;"> KCSE 2023 </span><span style="color:coral;">(Best paper award, Oral presentation)</span>
-- <a href="">NLI Style Few-shot Learning with Supervised Contrastive Loss</a><br>
-                  <b>Sangwon Ryu</b>, Kyung-Ah Sohn <br> <span style="font-style: italic;">
-                      KICS 2022 </span>
 
 Teaching Experiences 👨‍🏫
 ------
 - Teaching Assistant, POSTECH
+  <!-- - Deep Learning, Fall 2025 -->
   - Introduction to Artificial Intelligence (CSED105), Spring 2025
-- Mentor, POSTECH, Undergraduate Research Participation
-  - Text Summarization, Feb 2024 - Jun 2024
-- Lecturer, POSCO AI Application Expert Training
+- Teaching Assistant, POSCO Youth AI and Big Data Academy
+  - Natural Language Generation, Aug 2025 - Aug 2025
+- Teaching Assistant, POSCO AI Application Expert Training
   - Data Mining, Apr 2024 - Aug 2024
   - Data Mining, Apr 2023 - Aug 2023
+- Mentor, POSTECH, Undergraduate Research Participation
+  - Text Summarization, Feb 2024 - Jun 2024
 - Teaching Assistant, Megastudy
   - Mathematics, May 2019 - Dec 2019
   
@@ -99,14 +88,14 @@ Responsibilities ⏰
   - Journal: TASLP (2024, 2025)
   - Workshop: ACL (SRW 2024)
 
-Research Projects 🏭
------
-- Development of Machine Translation <br>HYBE & Seoul National University, *Principal Investigator*, Dec 2024 - current
-  - Machine translation, post-editing
-- MILAINA: Multi-Lingual AI News Agent<br>National Research Foundation of Korea (NRF), *Principal Investigator*, Jun 2023 - current
+<!-- Research Projects 🏭
+----- -->
+<!-- - Development of Machine Translation <br>HYBE & Seoul National University, *Principal Investigator*, Dec 2024 - current
+  - Machine translation, post-editing -->
+<!-- - MILAINA: Multi-Lingual AI News Agent<br>National Research Foundation of Korea (NRF), Jun 2023 - current
   - Multi-lingual text summarization
 - Development and Verification of Online Hate Speech Identification Model<br>National Research Foundation of Korea (NRF), Jul 2022 - Dec 2022
-  - Hate speech data construction
+  - Hate speech data construction -->
   
 Talks 🎙️
 -----
@@ -136,6 +125,6 @@ Other Experiences 🚛
 -----
 - Forklift Driver, Sep 2018 - Dec 2018
 - Bus Driver, Auxiliary Police, Oct 2016 - Jul 2018
-- BJJ, White Belt (III)
+- BJJ, White Belt (IIII)
 - Interests in {Body Building, MMA, Grappling}
 - The harder I work, the luckier I get.

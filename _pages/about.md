@@ -84,7 +84,7 @@ Teaching Experiences 👨‍🏫
 Responsibilities ⏰
 -----
 - Reviewer
-  - Conference: ARR (including ACL, EMNLP, NAACL) (2025)
+  - Conference: ARR (including ACL, EMNLP, NAACL) (2024, 2025)
   - Journal: TASLP (2024, 2025)
   - Workshop: ACL (SRW 2024)
 
@@ -125,6 +125,5 @@ Other Experiences 🚛
 -----
 - Forklift Driver, Sep 2018 - Dec 2018
 - Bus Driver, Auxiliary Police, Oct 2016 - Jul 2018
-- BJJ, White Belt (IIII)
 - Interests in {Body Building, MMA, Grappling}
 - The harder I work, the luckier I get.

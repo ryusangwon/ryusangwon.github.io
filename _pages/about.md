@@ -125,5 +125,5 @@ Other Experiences 🚛
 -----
 - Forklift Driver, Sep 2018 - Dec 2018
 - Bus Driver, Auxiliary Police, Oct 2016 - Jul 2018
-- Interests in {Body Building, MMA, Grappling}
+- Interests in {Body Building, MMA, BJJ, Grappling}
 - The harder I work, the luckier I get.

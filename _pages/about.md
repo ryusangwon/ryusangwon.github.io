@@ -69,7 +69,7 @@ Publications 📖
 Teaching Experiences 👨‍🏫
 ------
 - Teaching Assistant, POSTECH
-  <!-- - Deep Learning, Fall 2025 -->
+  - AI Trends (AIGS703C), Fall 2025
   - Introduction to Artificial Intelligence (CSED105), Spring 2025
 - Teaching Assistant, POSCO Youth AI and Big Data Academy
   - Natural Language Generation, Aug 2025 - Aug 2025

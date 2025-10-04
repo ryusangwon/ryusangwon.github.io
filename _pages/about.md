@@ -12,10 +12,10 @@ I'm PhD student at <a href="https://ai.postech.ac.kr/">POSTECH AI</a>. My resear
 
 News 🗞️
 -----
+`[Sep, 2025] 🎉 One paper accepted at EMNLP NLLP Workshop 2025`<br>
 `[Jun, 2025] 🎊 Selected for the Samsung Electronics MX Scholarship`<br>
 `[May, 2025] 🎉 One paper accepted at ACL 2025`<br>
 `[Jan, 2025] 🎉 Two papers accepted at NAACL 2025 (one Oral, one Findings)`<br>
-`[Nov, 2024] 👏 A new preprint is out: Controllable summarization with LLMs`<br>
 `[Sep, 2024] 🎉 One paper accepted at EMNLP 2024`<br>
 `[Jun, 2024] 🎉 One paper accepted at INTERSPEECH 2024 (Oral)`<br>
 `[May, 2024] 🎉 One paper accepted at ACL 2024`<br>
@@ -57,11 +57,14 @@ Publications 📖
 - <a href="https://www.isca-archive.org/interspeech_2024/ryu24_interspeech.html#">Key-Element-Informed sLLM Tuning for Document Summarization</a><br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> INTERSPEECH 2024 </span><span style="color:coral;">(Oral presentation)</span>
 - <a href="https://aclanthology.org/2024.acl-long.319/">Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning</a><br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024 </span>
 
+### workshop
+
+- <a href="https://arxiv.org/abs/2505.12950">GuRE:Generative Query REwriter for Legal Passage Retrieval</a><br>Daehee Kim, Deokhyung Kang, Jonghwi Kim, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br><span style="font-style: italic;">EMNLP NLLP Workshop 2025 </span>
 
 ### preprints
 
+- <a href="https://arxiv.org/pdf/2509.26435">Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search</a><br><b>Sangwon Ryu</b>, Heejin Do, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br>
 - <a href="https://arxiv.org/abs/2411.12460">Exploring Iterative Controllable Summarization for Large Language Models</a><br><b>Sangwon Ryu</b>, Heejin Do, Daehee Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br>
-- <a href="https://arxiv.org/abs/2505.12950">GuRE:Generative Query REwriter for Legal Passage Retrieval</a><br>Daehee Kim, Deokhyung Kang, Jonghwi Kim, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
 - <a href="https://arxiv.org/abs/2502.20748">Teach-to-Reason with Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
 - <a href="https://arxiv.org/abs/2409.07088/">Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model</a><br>Daehee Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
 

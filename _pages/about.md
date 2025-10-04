@@ -12,7 +12,7 @@ I'm PhD student at <a href="https://ai.postech.ac.kr/">POSTECH AI</a>. My resear
 
 News 🗞️
 -----
-`[Sep, 2025] 🎉 One paper accepted at EMNLP NLLP Workshop 2025`<br>
+`[Sep, 2025] 🎉 One paper accepted at NLLP Workshop (EMNLP 2025)`<br>
 `[Jun, 2025] 🎊 Selected for the Samsung Electronics MX Scholarship`<br>
 `[May, 2025] 🎉 One paper accepted at ACL 2025`<br>
 `[Jan, 2025] 🎉 Two papers accepted at NAACL 2025 (one Oral, one Findings)`<br>
@@ -59,7 +59,7 @@ Publications 📖
 
 ### workshop
 
-- <a href="https://arxiv.org/abs/2505.12950">GuRE:Generative Query REwriter for Legal Passage Retrieval</a><br>Daehee Kim, Deokhyung Kang, Jonghwi Kim, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br><span style="font-style: italic;">EMNLP NLLP Workshop 2025 </span>
+- <a href="https://arxiv.org/abs/2505.12950">GuRE:Generative Query REwriter for Legal Passage Retrieval</a><br>Daehee Kim, Deokhyung Kang, Jonghwi Kim, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br><span style="font-style: italic;">NLLP Workshop (EMNLP 2025) </span>
 
 ### preprints
 

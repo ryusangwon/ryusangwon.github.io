@@ -14,7 +14,7 @@ Feel free to contact me via email at [ryusangwon@postech.ac.kr](mailto:ryusangwo
 
 
 <!-- Currently, I am a visiting researcher at <a href="https://www.epfl.ch/en/">EPFL</a>, where I work with <a href="https://atcbosselut.github.io/">Antoine Bosselut</a>. -->
-<!-- I'm a PhD candidate at <a href="https://ai.postech.ac.kr/">POSTECH AI</a>. My research interests lie in various areas of text summarization and reinforcement learning. I am fortunate to be advised by <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> and <a href="https://www.yunsukim.me/">Yunsu Kim</a>. My research is supported by <a href="https://www.samsung-dxrecruit.com/dept/detail/C0003">Samsung Electronics MX Scholarship</a>. Feel free to contact me via email [ryusangwon@postech.ac.kr](mailto:ryusangwon@postech.ac.kr). -->
+
 
 News 🗞️
 -----
@@ -28,28 +28,7 @@ News 🗞️
 `[Jun, 2024] 🎉 One paper has been accepted at INTERSPEECH 2024 (Oral)`<br>
 `[May, 2024] 🎉 One paper has been accepted at ACL 2024`<br>
 
-<!-- Research Interest 💡
------
-- Natural Language Processing (Summarization, Controllable Generation, Multilingual NLP etc.)
-- Reinforcement Learning (Planning, Multi-Object Optimization etc.)
 
-Education 📚
------
-- POSTECH
-  - Ph.D. student in Graduate School of Artifical Intelligence
-                  <br>Advised by Prof. <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> , and <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a>
-                  
-- Ajou University
-  - B.S. in Software and Computer Engineering
-  - Micro in Artifical Intelligence -->
-
-Employment 🏢
-------
-
-<!-- - Visiting Researcher, École polytechnique fédérale de Lausanne (EPFL), <a href="https://nlp.epfl.ch/">NLP Lab</a>, March 2026 - current <br>Working with Prof. <a href="https://atcbosselut.github.io">Antoine Bosselut</a> -->
-- Research Assistant, Pohang University of Science and Technology (POSTECH), <a href="https://sites.google.com/view/nlppostech/">NLP Group</a>, Feb 2023 - current <br>Advised by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a> and Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> 
-- Research Intern, Ajou University, <a href="https://sites.google.com/site/kasohn/group/">Lamda Lab</a>, Feb 2022 - Dec 2022<br>Advised by Prof. <a href="https://sites.google.com/site/kasohn/group/">Kyung-Ah Sohn</a>
-- Research Intern, Ajou University, <a href="https://sites.google.com/view/meslab-ku/">HMS Lab</a>, Feb 2021 - Dec 2021<br>Advised by Prof. <a href="https://sites.google.com/view/sangeunoh/">Sangeun Oh</a>
 
 Publications 📖
 -----
@@ -75,60 +54,6 @@ Publications 📖
 - <a href="https://arxiv.org/abs/2409.07088">Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model</a><br>Daehee Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
 
 
-<!-- Teaching Experiences 👨‍🏫
-------
-- Teaching Assistant, POSTECH
-  - AI Trends (AIGS703C), Fall 2025
-  - Introduction to Artificial Intelligence (CSED105), Spring 2025
-- Teaching Assistant, POSCO Youth AI and Big Data Academy
-  - Natural Language Generation, Aug 2025 - Aug 2025
-- Teaching Assistant, POSCO AI Application Expert Training
-  - Data Mining, Apr 2024 - Aug 2024
-  - Data Mining, Apr 2023 - Aug 2023
-- Mentor, POSTECH, Undergraduate Research Participation
-  - Text Summarization, Feb 2024 - Jun 2024
-- Teaching Assistant, Megastudy
-  - Mathematics, May 2019 - Dec 2019 -->
-  
-<!-- Responsibilities ⏰
------
-- Reviewer
-  - Conference: ARR (including ACL, EMNLP, NAACL) (2024, 2025, 2026)
-  - Journal: TASLP (2024, 2025)
-  - Workshop: ACL (SRW 2024) -->
-
-<!-- Research Projects 🏭
------ -->
-<!-- - Development of Machine Translation <br>HYBE & Seoul National University, *Principal Investigator*, Dec 2024 - current
-  - Machine translation, post-editing -->
-<!-- - MILAINA: Multi-Lingual AI News Agent<br>National Research Foundation of Korea (NRF), Jun 2023 - current
-  - Multi-lingual text summarization
-- Development and Verification of Online Hate Speech Identification Model<br>National Research Foundation of Korea (NRF), Jul 2022 - Dec 2022
-  - Hate speech data construction -->
-  
-<!-- Talks 🎙️
------
-- Cohere For AI, <a href="https://www.youtube.com/watch?v=fl1Ea7eZIZA">Optimizing Text Summarization in Multiple Dimensions</a>
-  - Presented by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a> -->
-
-<!-- Awards and Certificates 🏅
------
-- Samsung Electronics MX Scholarship (2025)
-- Best Paper Award, KCSE (2023)
-- SOFTCON Research Excellence Award, Ajou University (2022)
-- Big Data Analysis Practice Level 2
-- Recognition Award, Gyeonggi Nambu Provincial Police Agency (2017)
-- Excellence Recruit, Korea Army (2016) -->
-
-<!-- Patents and Copyrights 💼
------
-- Instruction Tuned sLLM for News Summarization<br>*Copyright*, Registration Number: C-2024-000076
-- sLLM Tuning method for News Summarization, device for the same, and method for generating news summarization<br>*Patent*, Registration Number: 10-2023-0191656
-- Query focus summarization Program <br>*Copyright*, Registration Number: C-2022-052465 -->
-
-<!-- Skills 💻
------
-- Python, Pytorch, (Vim, Nodejs, django, SQL, Android) -->
 
 Other Experiences 🚛
 -----

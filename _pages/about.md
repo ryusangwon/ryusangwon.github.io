@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Ph.D. candidate in the Graduate School of Artificial Intelligence at Pohang University of Science and Technology (POSTECH), advised by Prof. <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> and Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a>. I am a member of <a href="https://sites.google.com/view/nlppostech/">NLP Group</a> at POSTECH, advised by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a>. My research interests lie in natural language processing, with a particular focus on text summarization, controllable text generation, and multilingual NLP. I am also interested in reinforcement learning, including planning and multi-objective optimization. My research is supported by the <a href="https://www.samsung-dxrecruit.com/dept/detail/C0003">Samsung Electronics Mobile eXperience (MX)</a>. Previously, I completed my B.S. in Software and Computer Engineering from Ajou University, with a micro in Artificial Intelligence. 
 
+I have also worked as a forklift driver, and served as a bus driver in the Auxiliary Police. In my free time, I enjoy combat sports, including bodybuilding, MMA, BJJ, and grappling.
+
 Feel free to contact me via email at [ryusangwon@postech.ac.kr](mailto:ryusangwon@postech.ac.kr).
 
 
@@ -52,11 +54,3 @@ Publications 📖
 - <a href="https://arxiv.org/abs/2411.12460">Exploring Iterative Controllable Summarization for Large Language Models</a><br><b>Sangwon Ryu</b>, Heejin Do, Daehee Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br>
 - <a href="https://arxiv.org/abs/2502.20748">Teach-to-Reason with Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
 - <a href="https://arxiv.org/abs/2409.07088">Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model</a><br>Daehee Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
-
-
-
-Other Experiences 🚛
------
-- Forklift Driver, Sep 2018 - Dec 2018
-- Bus Driver, Auxiliary Police, Oct 2016 - Jul 2018
-- Interests in {Body Building, MMA, BJJ, Grappling}

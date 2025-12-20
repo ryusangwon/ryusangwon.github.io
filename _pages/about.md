@@ -8,37 +8,46 @@ redirect_from:
   - /about.html
 ---
 
-I'm PhD student at <a href="https://ai.postech.ac.kr/">POSTECH AI</a>. My research interests lie in various areas of text summarization and reinforcement learning. I am fortunated to be advised by <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> and <a href="https://www.yunsukim.me/">Yunsu Kim</a>. My research is supported by <a href="https://www.samsung-dxrecruit.com/dept/detail/C0003">Samsung Electronics MX Scholarship</a>. Feel free to contact via email [ryusangwon@postech.ac.kr](mailto:ryusangwon@postech.ac.kr).
+I am a Ph.D. candidate in the Graduate School of Artificial Intelligence at POSTECH, advised by Prof. <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> and Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a>. I am a member of <a href="https://sites.google.com/view/nlppostech/">NLP Group</a> at POSTECH, advised by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a>. My research interests lie in natural language processing, with a particular focus on text summarization, controllable text generation, and multilingual NLP. I am also interested in reinforcement learning, including planning and multi-objective optimization. My research is supported by the <a href="https://www.samsung-dxrecruit.com/dept/detail/C0003">Samsung Electronics MX Scholarship</a>. Previously, I completed my B.S. in Software and Computer Engineering from Ajou University, with a micro in Artificial Intelligence. 
+
+Feel free to contact me via email at [ryusangwon@postech.ac.kr](mailto:ryusangwon@postech.ac.kr).
+
+
+<!-- Currently, I am a visiting researcher at <a href="https://www.epfl.ch/en/">EPFL</a>, where I work with <a href="https://atcbosselut.github.io/">Antoine Bosselut</a>. -->
+<!-- I'm a PhD candidate at <a href="https://ai.postech.ac.kr/">POSTECH AI</a>. My research interests lie in various areas of text summarization and reinforcement learning. I am fortunate to be advised by <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> and <a href="https://www.yunsukim.me/">Yunsu Kim</a>. My research is supported by <a href="https://www.samsung-dxrecruit.com/dept/detail/C0003">Samsung Electronics MX Scholarship</a>. Feel free to contact me via email [ryusangwon@postech.ac.kr](mailto:ryusangwon@postech.ac.kr). -->
 
 News 🗞️
 -----
-`[Sep, 2025] 🎉 One paper accepted at NLLP Workshop (EMNLP 2025)`<br>
-`[Jun, 2025] 🎊 Selected for the Samsung Electronics MX Scholarship`<br>
-`[May, 2025] 🎉 One paper accepted at ACL 2025`<br>
-`[Jan, 2025] 🎉 Two papers accepted at NAACL 2025 (one Oral, one Findings)`<br>
-`[Sep, 2024] 🎉 One paper accepted at EMNLP 2024`<br>
-`[Jun, 2024] 🎉 One paper accepted at INTERSPEECH 2024 (Oral)`<br>
-`[May, 2024] 🎉 One paper accepted at ACL 2024`<br>
+<!-- `[Feb, 2026] 🎊 I have joined EPFL as a visiting researcher`<br>
+`[Jan, 2026] 🎉 One paper has been accepted at EACL 2026`<br> -->
+`[Sep, 2025] 🎉 One paper has been accepted at NLLP Workshop (EMNLP 2025)`<br>
+`[Jun, 2025] 🎊 I have been selected for the Samsung Electronics MX Scholarship`<br>
+`[May, 2025] 🎉 One paper has been accepted at ACL 2025`<br>
+`[Jan, 2025] 🎉 Two papers have been accepted at NAACL 2025 (one Oral, one Findings)`<br>
+`[Sep, 2024] 🎉 One paper has been accepted at EMNLP 2024`<br>
+`[Jun, 2024] 🎉 One paper has been accepted at INTERSPEECH 2024 (Oral)`<br>
+`[May, 2024] 🎉 One paper has been accepted at ACL 2024`<br>
 
-Research Interest 💡
+<!-- Research Interest 💡
 -----
-- Natural Language Processing (Summarization, Controllable Generation, LLMs etc.)
-- Reinforcement Learning (Planning, Multi-Object Optimization, Decoding Strategy etc.)
+- Natural Language Processing (Summarization, Controllable Generation, Multilingual NLP etc.)
+- Reinforcement Learning (Planning, Multi-Object Optimization etc.)
 
 Education 📚
 -----
 - POSTECH
   - Ph.D. student in Graduate School of Artifical Intelligence
-                  <br>Advised by Prof. <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> and <a href="https://www.yunsukim.me/">Yunsu Kim</a>
+                  <br>Advised by Prof. <a href="https://sites.google.com/view/jungseulok">Jungseul Ok</a> , and <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a>
                   
 - Ajou University
   - B.S. in Software and Computer Engineering
-  - Micro Major in Artifical Intelligence
+  - Micro in Artifical Intelligence -->
 
-Research Experiences 👨‍🔬
+Employment 🏢
 ------
 
-- Research Assistant, POSTECH, <a href="https://sites.google.com/view/nlppostech/">NLP Group</a>, Feb 2023 - current <br>Advised by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a> and Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> 
+<!-- - Visiting Researcher, École polytechnique fédérale de Lausanne (EPFL), <a href="https://nlp.epfl.ch/">NLP Lab</a>, March 2026 - current <br>Working with Prof. <a href="https://atcbosselut.github.io">Antoine Bosselut</a> -->
+- Research Assistant, Pohang University of Science and Technology (POSTECH), <a href="https://sites.google.com/view/nlppostech/">NLP Group</a>, Feb 2023 - current <br>Advised by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a> and Prof. <a href="https://sites.google.com/view/gary-geunbae-lee/">Gary Geunbae Lee</a> 
 - Research Intern, Ajou University, <a href="https://sites.google.com/site/kasohn/group/">Lamda Lab</a>, Feb 2022 - Dec 2022<br>Advised by Prof. <a href="https://sites.google.com/site/kasohn/group/">Kyung-Ah Sohn</a>
 - Research Intern, Ajou University, <a href="https://sites.google.com/view/meslab-ku/">HMS Lab</a>, Feb 2021 - Dec 2021<br>Advised by Prof. <a href="https://sites.google.com/view/sangeunoh/">Sangeun Oh</a>
 
@@ -46,20 +55,17 @@ Publications 📖
 -----
 *: Equal contributions
 
-----
 
 ### conferences
 
+<!-- - <a href="https://arxiv.org/abs/2411.12460">Exploring Iterative Controllable Summarization for Large Language Models</a><br><b>Sangwon Ryu</b>, Heejin Do, Daehee Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br><span style="font-style: italic;">EACL 2026 </span> -->
+- <a href="https://aclanthology.org/2025.nllp-1.31/">GuRE:Generative Query REwriter for Legal Passage Retrieval</a><br>Daehee Kim, Deokhyung Kang, Jonghwi Kim, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br><span style="font-style: italic;">NLLP Workshop at EMNLP 2025 </span>
 - <a href="https://aclanthology.org/2025.acl-long.1388/">Multi-facet Blending for Faceted Query-by-Example Retrieval</a><br>Heejin Do*, <b>Sangwon Ryu*</b>, Jonghwi Kim, Gary Geunbae Lee<br><span style="font-style: italic;">ACL 2025 </span>
-- <a href="https://aclanthology.org/2025.findings-naacl.153/">Towards Prompt Generalization: Grammar-aware Cross-Prompt Automated Essay Scoring</a><br>Heejin Do, Taehee Park, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL Findings 2025 </span>
+- <a href="https://aclanthology.org/2025.findings-naacl.153/">Towards Prompt Generalization: Grammar-aware Cross-Prompt Automated Essay Scoring</a><br>Heejin Do, Taehee Park, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL Short Findings 2025 </span>
 - <a href="https://aclanthology.org/2025.naacl-long.241/">Revisiting Early Detection of Sexual Predators via Turn-level Optimization</a><br>Jinmyeong An, <b>Sangwon Ryu</b>, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee<br> <span style="font-style: italic;">NAACL 2025 </span><span style="color:coral;">(Oral presentation)</span>
 - <a href="https://aclanthology.org/2024.emnlp-main.917/">Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with Scoring-aware Multiple Rewards</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br> <span style="font-style: italic;">EMNLP 2024 </span> 
 - <a href="https://www.isca-archive.org/interspeech_2024/ryu24_interspeech.html#">Key-Element-Informed sLLM Tuning for Document Summarization</a><br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok <br> <span style="font-style: italic;"> INTERSPEECH 2024 </span><span style="color:coral;">(Oral presentation)</span>
 - <a href="https://aclanthology.org/2024.acl-long.319/">Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning</a><br><b>Sangwon Ryu\*</b>, Heejin Do*, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">ACL 2024 </span>
-
-### workshop
-
-- <a href="https://arxiv.org/abs/2505.12950">GuRE:Generative Query REwriter for Legal Passage Retrieval</a><br>Daehee Kim, Deokhyung Kang, Jonghwi Kim, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br><span style="font-style: italic;">NLLP Workshop (EMNLP 2025) </span>
 
 ### preprints
 
@@ -69,7 +75,7 @@ Publications 📖
 - <a href="https://arxiv.org/abs/2409.07088">Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model</a><br>Daehee Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br>
 
 
-Teaching Experiences 👨‍🏫
+<!-- Teaching Experiences 👨‍🏫
 ------
 - Teaching Assistant, POSTECH
   - AI Trends (AIGS703C), Fall 2025
@@ -82,14 +88,14 @@ Teaching Experiences 👨‍🏫
 - Mentor, POSTECH, Undergraduate Research Participation
   - Text Summarization, Feb 2024 - Jun 2024
 - Teaching Assistant, Megastudy
-  - Mathematics, May 2019 - Dec 2019
+  - Mathematics, May 2019 - Dec 2019 -->
   
-Responsibilities ⏰
+<!-- Responsibilities ⏰
 -----
 - Reviewer
-  - Conference: ARR (including ACL, EMNLP, NAACL) (2024, 2025)
+  - Conference: ARR (including ACL, EMNLP, NAACL) (2024, 2025, 2026)
   - Journal: TASLP (2024, 2025)
-  - Workshop: ACL (SRW 2024)
+  - Workshop: ACL (SRW 2024) -->
 
 <!-- Research Projects 🏭
 ----- -->
@@ -100,33 +106,32 @@ Responsibilities ⏰
 - Development and Verification of Online Hate Speech Identification Model<br>National Research Foundation of Korea (NRF), Jul 2022 - Dec 2022
   - Hate speech data construction -->
   
-Talks 🎙️
+<!-- Talks 🎙️
 -----
 - Cohere For AI, <a href="https://www.youtube.com/watch?v=fl1Ea7eZIZA">Optimizing Text Summarization in Multiple Dimensions</a>
-  - Presented by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a>
+  - Presented by Prof. <a href="https://www.yunsukim.me/">Yunsu Kim</a> -->
 
-Awards and Certificates 🏅
+<!-- Awards and Certificates 🏅
 -----
 - Samsung Electronics MX Scholarship (2025)
 - Best Paper Award, KCSE (2023)
 - SOFTCON Research Excellence Award, Ajou University (2022)
 - Big Data Analysis Practice Level 2
 - Recognition Award, Gyeonggi Nambu Provincial Police Agency (2017)
-- Excellence Recruit, Korea Army (2016)
+- Excellence Recruit, Korea Army (2016) -->
 
-Patents and Copyrights 💼
+<!-- Patents and Copyrights 💼
 -----
 - Instruction Tuned sLLM for News Summarization<br>*Copyright*, Registration Number: C-2024-000076
 - sLLM Tuning method for News Summarization, device for the same, and method for generating news summarization<br>*Patent*, Registration Number: 10-2023-0191656
-- Query focus summarization Program <br>*Copyright*, Registration Number: C-2022-052465
+- Query focus summarization Program <br>*Copyright*, Registration Number: C-2022-052465 -->
 
-Skills 💻
+<!-- Skills 💻
 -----
-- Python, Pytorch, (Vim, Nodejs, django, SQL, Android)
+- Python, Pytorch, (Vim, Nodejs, django, SQL, Android) -->
 
 Other Experiences 🚛
 -----
 - Forklift Driver, Sep 2018 - Dec 2018
 - Bus Driver, Auxiliary Police, Oct 2016 - Jul 2018
 - Interests in {Body Building, MMA, BJJ, Grappling}
-- The harder I work, the luckier I get.

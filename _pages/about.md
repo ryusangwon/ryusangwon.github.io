@@ -45,7 +45,7 @@ Publications 📖
 
 <!-- [C8] <a href="https://arxiv.org/abs/2509.26435">Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing</a><br>Jun Seo*, <b>Sangwon Ryu*</b>, Heejin Do†, Hyounghun Kim, Gary Geunbae Lee†<br> <span style="font-style: italic;">ACL, 2026 </span> -->
 
-[J1] <a href="https://arxiv.org/abs/2502.20748">Teach-to-Reason with Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br><span style="font-style: italic;">Expert Systems with Applications (ESWA), 2026 </span>
+[J1] <a href="https://arxiv.org/abs/2502.20748">Teach-to-Reason with Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br><span style="font-style: italic;">Expert Systems with Applications, 2026 </span>
 
 [C7] <a href="https://arxiv.org/abs/2411.12460">Exploring Iterative Controllable Summarization for Large Language Models</a><br><b>Sangwon Ryu</b>, Heejin Do, Daehui Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br><span style="font-style: italic;">EACL, Findings, 2026 </span>
 

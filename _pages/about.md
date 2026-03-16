@@ -20,6 +20,8 @@ Feel free to contact me via email at [ryusangwon@postech.ac.kr](mailto:ryusangwo
 
 News 🗞️
 -----
+<!-- `[Apr, 2026] 🎉 Two papers have been accepted at ACL 2026`<br> -->
+`[Mar, 2026] 🎉 One paper has been accepted at Expert Systems with Applications`<br>
 `[Mar, 2026] 👋 I have joined LMU Munich as a visiting researcher`<br>
 `[Jan, 2026] 🎉 One paper has been accepted at EACL 2026 (Findings)`<br>
 `[Sep, 2025] 🎉 One paper has been accepted at NLLP Workshop (EMNLP 2025)`<br>
@@ -30,20 +32,20 @@ News 🗞️
 `[Jun, 2024] 🎉 One paper has been accepted at INTERSPEECH 2024 (Oral)`<br>
 `[May, 2024] 🎉 One paper has been accepted at ACL 2024`<br>
 
-
-
 Publications 📖
 -----
 
 ### Conferences (C) / Journals (J) / Workshops (W) / Preprints (P)
 
-*: Equal contributions
+*: Equal contribution, †: Co-corresponding author
 
-[P3] <a href="https://arxiv.org/abs/2509.26435">Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search</a><br><b>Sangwon Ryu</b>, Heejin Do, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">Preprint </span>
-
-[P2] <a href="https://arxiv.org/abs/2502.20748">Teach-to-Reason with Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br><span style="font-style: italic;">Preprint </span>
+[P2] <a href="https://arxiv.org/abs/2509.26435">Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search</a><br><b>Sangwon Ryu</b>, Heejin Do, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br> <span style="font-style: italic;">Preprint </span>
 
 [P1] <a href="https://arxiv.org/abs/2409.07088">Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model</a><br>Daehui Kim, Deokhyung Kang, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br><span style="font-style: italic;">Preprint </span>
+
+<!-- [C8] <a href="https://arxiv.org/abs/2509.26435">Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing</a><br>Jun Seo*, <b>Sangwon Ryu*</b>, Heejin Do†, Hyounghun Kim, Gary Geunbae Lee†<br> <span style="font-style: italic;">ACL, 2026 </span> -->
+
+[J1] <a href="https://arxiv.org/abs/2502.20748">Teach-to-Reason with Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br><span style="font-style: italic;">Expert Systems with Applications (ESWA), 2026 </span>
 
 [C7] <a href="https://arxiv.org/abs/2411.12460">Exploring Iterative Controllable Summarization for Large Language Models</a><br><b>Sangwon Ryu</b>, Heejin Do, Daehui Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br><span style="font-style: italic;">EACL, Findings, 2026 </span>
 

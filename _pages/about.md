@@ -21,10 +21,11 @@ Feel free to contact me via email at [ryusangwon@postech.ac.kr](mailto:ryusangwo
 News 🗞️
 -----
 <!-- `[Apr, 2026] 🎉 Two papers have been accepted at ACL 2026`<br> -->
+`[Mar, 2026] 🎤 I will serve as a Session Chair for HCI & Dialogue at EACL 2026`<br>
 `[Mar, 2026] 🎉 One paper has been accepted at Expert Systems with Applications`<br>
 `[Mar, 2026] 👋 I have joined LMU Munich as a visiting researcher`<br>
 `[Jan, 2026] 🎉 One paper has been accepted at EACL 2026 (Findings)`<br>
-`[Sep, 2025] 🎉 One paper has been accepted at NLLP Workshop (EMNLP 2025)`<br>
+`[Sep, 2025] 🎉 One paper has been accepted at NLLP Workshop at EMNLP 2025`<br>
 `[Jun, 2025] 🎊 I have been selected for the Samsung Electronics MX Scholarship`<br>
 `[May, 2025] 🎉 One paper has been accepted at ACL 2025`<br>
 `[Jan, 2025] 🎉 Two papers have been accepted at NAACL 2025 (one Oral, one Findings)`<br>

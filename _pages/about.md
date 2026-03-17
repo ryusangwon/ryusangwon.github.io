@@ -21,7 +21,7 @@ Feel free to contact me via email at [ryusangwon@postech.ac.kr](mailto:ryusangwo
 News 🗞️
 -----
 <!-- `[Apr, 2026] 🎉 Two papers have been accepted at ACL 2026`<br> -->
-`[Mar, 2026] 🎤 I will serve as a Session Chair for HCI & Dialogue at EACL 2026`<br>
+`[Mar, 2026] 🎤 I will serve as a Session Chair for the HCI & Dialogue session at EACL 2026`<br>
 `[Mar, 2026] 🎉 One paper has been accepted at Expert Systems with Applications`<br>
 `[Mar, 2026] 👋 I have joined LMU Munich as a visiting researcher`<br>
 `[Jan, 2026] 🎉 One paper has been accepted at EACL 2026 (Findings)`<br>

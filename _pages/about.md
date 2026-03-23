@@ -48,7 +48,7 @@ Publications 📖
 
 [J1] <a href="https://arxiv.org/abs/2502.20748">Teach-to-Reason with Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring</a><br>Heejin Do, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br><span style="font-style: italic;">Expert Systems with Applications, 2026 </span>
 
-[C7] <a href="https://arxiv.org/abs/2411.12460">Exploring Iterative Controllable Summarization for Large Language Models</a><br><b>Sangwon Ryu</b>, Heejin Do, Daehui Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br><span style="font-style: italic;">EACL, Findings, 2026 </span>
+[C7] <a href="https://aclanthology.org/2026.findings-eacl.26/">Exploring Iterative Controllable Summarization for Large Language Models</a><br><b>Sangwon Ryu</b>, Heejin Do, Daehui Kim, Hwanjo Yu, Dongwoo Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok<br><span style="font-style: italic;">EACL, Findings, 2026 </span>
 
 [W1] <a href="https://aclanthology.org/2025.nllp-1.31/">GuRE:Generative Query REwriter for Legal Passage Retrieval</a><br>Daehui Kim, Deokhyung Kang, Jonghwi Kim, <b>Sangwon Ryu</b>, Gary Geunbae Lee<br><span style="font-style: italic;">NLLP at EMNLP, 2025 </span>
 

@@ -35,22 +35,6 @@ window.VENUE_ALIASES = {
 
 window.PUBLICATIONS = [
   {
-    title: "Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search",
-    category: "preprint",
-    authors: ["Sangwon Ryu", "Heejin Do", "Yunsu Kim", "Gary Geunbae Lee", "Jungseul Ok"],
-    year: 2025,
-    venue: "arxiv",
-    links: [{ label: "Paper", url: "https://arxiv.org/abs/2509.26435" }],
-  },
-  {
-    title: "Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model",
-    category: "preprint",
-    authors: ["Daehui Kim", "Deokhyung Kang", "Sangwon Ryu", "Gary Geunbae Lee"],
-    year: 2024,
-    venue: "arxiv",
-    links: [{ label: "Paper", url: "https://arxiv.org/abs/2409.07088" }],
-  },
-  {
     title: "Teach-to-Reason with Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring",
     category: "journal",
     authors: ["Heejin Do", "Sangwon Ryu", "Gary Geunbae Lee"],
@@ -142,5 +126,21 @@ window.PUBLICATIONS = [
     year: 2024,
     venue: "acl",
     links: [{ label: "Paper", url: "https://aclanthology.org/2024.acl-long.319/" }],
+  },
+    {
+    title: "Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search",
+    category: "preprint",
+    authors: ["Sangwon Ryu", "Heejin Do", "Yunsu Kim", "Gary Geunbae Lee", "Jungseul Ok"],
+    year: 2025,
+    venue: "arxiv",
+    links: [{ label: "Paper", url: "https://arxiv.org/abs/2509.26435" }],
+  },
+  {
+    title: "Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model",
+    category: "preprint",
+    authors: ["Daehui Kim", "Deokhyung Kang", "Sangwon Ryu", "Gary Geunbae Lee"],
+    year: 2024,
+    venue: "arxiv",
+    links: [{ label: "Paper", url: "https://arxiv.org/abs/2409.07088" }],
   },
 ];

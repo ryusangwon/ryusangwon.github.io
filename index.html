@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sangwon Ryu</title>
+  <meta name="description" content="Sangwon Ryu academic homepage and writing archive." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header class="container site-header">
+    <div class="header-main">
+      <div class="header-copy">
+        <h1>Sangwon Ryu</h1>
+        <p class="subtitle">Ph.D. Candidate at POSTECH</p>
+        <p class="header-links">
+          <a href="https://scholar.google.co.kr/citations?user=LQcIsrQAAAAJ&hl=ko&authuser=1" target="_blank" rel="noreferrer">Google Scholar</a>
+          <span class="dot">·</span>
+          <a href="https://github.com/ryusangwon" target="_blank" rel="noreferrer">GitHub</a>
+          <span class="dot">·</span>
+          <a href="https://www.linkedin.com/in/sangwon-ryu-b38556225/" target="_blank" rel="noreferrer">LinkedIn</a>
+        </p>
+        <nav>
+          <a href="#about">About</a>
+          <a href="#news">News</a>
+          <a href="#publications">Publications</a>
+        </nav>
+        <p class="header-email">
+          <a href="mailto:ryusangwon@postech.ac.kr">ryusangwon@postech.ac.kr</a>
+        </p>
+      </div>
+      <img class="profile-photo" src="./images/profile.png" alt="Portrait of Sangwon Ryu" />
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="about" class="panel">
+      <h2>About</h2>
+      <div id="about-content"></div>
+    </section>
+
+    <section id="news" class="panel panel-news">
+      <div class="section-head">
+        <h2>News</h2>
+      </div>
+      <ul id="news-content" class="news-list"></ul>
+    </section>
+
+    <section id="publications" class="panel">
+      <div class="section-head">
+        <h2>Publications</h2>
+      </div>
+      <div class="publication-meta" id="publication-meta"></div>
+      <div id="publication-sections" class="publication-sections"></div>
+    </section>
+  </main>
+
+  <footer class="container site-footer">
+    <p>Website design from <a href="https://juho-lee.github.io/" target="_blank" rel="noreferrer">Juho Lee</a></p>
+  </footer>
+
+  <button id="to-top-button" class="to-top-button" type="button" aria-label="Back to top">To the top</button>
+
+  <script src="data/about.js"></script>
+  <script src="data/news.js"></script>
+  <script src="data/publications.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>

@@ -70,8 +70,8 @@ body {
 }
 
 .profile-photo {
-  width: 148px;
-  height: 148px;
+  width: 164px;
+  height: 164px;
   margin-top: 6px;
   border-radius: 6px;
   object-fit: cover;
@@ -380,8 +380,8 @@ a:focus-visible {
   }
 
   .profile-photo {
-    width: 112px;
-    height: 112px;
+    width: 124px;
+    height: 124px;
     margin-top: 0;
   }
 

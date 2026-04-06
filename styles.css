@@ -247,6 +247,11 @@ h2 {
   border-bottom: 1px solid var(--line);
 }
 
+.publication-item:last-child {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
 .pub-title {
   font-weight: 600;
 }

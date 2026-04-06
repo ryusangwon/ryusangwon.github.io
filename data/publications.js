@@ -78,7 +78,7 @@ window.PUBLICATIONS = [
     year: 2026,
     venue: "acl",
     note: "Findings",
-    links: [{ label: "Paper", url: "https://arxiv.org/abs/2509.26435" }],
+    links: [{ label: "Paper", url: "" }],
   },
   {
     title: "Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search",

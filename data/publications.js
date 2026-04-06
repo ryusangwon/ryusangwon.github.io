@@ -59,7 +59,7 @@ window.PUBLICATIONS = [
   // },
   {
     title: "Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model",
-    category: "arxiv",
+    category: "preprint",
     authors: ["Daehui Kim", "Deokhyung Kang", "Sangwon Ryu", "Gary Geunbae Lee"],
     year: 2026,
     venue: "arxiv",

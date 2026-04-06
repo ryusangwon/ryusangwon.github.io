@@ -82,7 +82,11 @@ function formatVenue(venueKey, year) {
     return `${escapeHtml(venueKey || "Unknown venue")} ${escapeHtml(year)}`;
   }
 
-  return `${escapeHtml(alias.name)} ${escapeHtml(year)} <span class="badge">${escapeHtml(alias.short)}</span>`;
+  const hostAlias = alias.host ? VENUE_ALIASES[String(alias.host).toLowerCase()] || null : null;
+  const hostBadge = hostAlias ? `<span class="badge">${escapeHtml(hostAlias.short)}</span>` : "";
+  const venueBadge = `<span class="badge">${escapeHtml(alias.short)}</span>`;
+
+  return `${escapeHtml(alias.name)} ${escapeHtml(year)} ${hostBadge}${hostBadge ? " " : ""}${venueBadge}`;
 }
 
 function formatLinks(links = []) {

@@ -4,11 +4,11 @@ window.VENUE_ALIASES = {
     short: "ACL",
   },
   eacl: {
-    name: "Conference of the European Chapter of the Association for Computational Linguistics",
+    name: "European Chapter of the Association for Computational Linguistics",
     short: "EACL",
   },
   emnlp: {
-    name: "Conference on Empirical Methods in Natural Language Processing",
+    name: "Empirical Methods in Natural Language Processing",
     short: "EMNLP",
   },
   eswa: {
@@ -16,7 +16,7 @@ window.VENUE_ALIASES = {
     short: "ESWA",
   },
   interspeech: {
-    name: "Annual Conference of the International Speech Communication Association",
+    name: "International Speech Communication Association",
     short: "INTERSPEECH",
   },
   naacl: {
@@ -24,8 +24,14 @@ window.VENUE_ALIASES = {
     short: "NAACL",
   },
   nllp: {
-    name: "Natural Legal Language Processing Workshop at EMNLP",
+    name: "Natural Legal Language Processing Workshop",
     short: "NLLP",
+    host: "emnlp",
+  },
+  surgellm: {
+    name: "Structured Understanding, Retrieval, and Generation in the LLM Era",
+    short: "SURGeLLM",
+    host: "acl",
   },
   arxiv: {
     name: "arXiv",
@@ -34,6 +40,54 @@ window.VENUE_ALIASES = {
 };
 
 window.PUBLICATIONS = [
+  // {
+  //   title: "Segment-level Tree Search for Long Meeting Document Summarization",
+  //   category: "conference",
+  //   authors: [
+  //     "Sangwon Ryu",
+  //     "Heejin Do",
+  //     "Jun Seo",
+  //     "Daehui Kim",
+  //     "Yunsu Kim",
+  //     "Gary Geunbae Lee",
+  //     "Jungseul Ok",
+  //   ],
+  //   year: 2026,
+  //   venue: "interspeech",
+  //   note: "Oral",
+  //   links: [{ label: "Paper", url: "" }],
+  // },
+  {
+    title: "Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model",
+    category: "arxiv",
+    authors: ["Daehui Kim", "Deokhyung Kang", "Sangwon Ryu", "Gary Geunbae Lee"],
+    year: 2026,
+    venue: "arxiv",
+    links: [{ label: "Paper", url: "https://arxiv.org/abs/2409.07088" }],
+  },
+  {
+    title: "Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing",
+    category: "conference",
+    authors: [
+      { name: "Jun Seo", equalContribution: true },
+      { name: "Sangwon Ryu", equalContribution: true },
+      { name: "Heejin Do", corresponding: true },
+      "Hyounghun Kim",
+      { name: "Gary Geunbae Lee", corresponding: true }
+    ],
+    year: 2026,
+    venue: "acl",
+    note: "Findings",
+    links: [{ label: "Paper", url: "https://arxiv.org/abs/2509.26435" }],
+  },
+  {
+    title: "Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search",
+    category: "conference",
+    authors: ["Sangwon Ryu", "Heejin Do", "Yunsu Kim", "Gary Geunbae Lee", "Jungseul Ok"],
+    year: 2026,
+    venue: "acl",
+    links: [{ label: "Paper", url: "https://arxiv.org/abs/2509.26435" }],
+  },
   {
     title: "Teach-to-Reason with Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring",
     category: "journal",
@@ -126,21 +180,5 @@ window.PUBLICATIONS = [
     year: 2024,
     venue: "acl",
     links: [{ label: "Paper", url: "https://aclanthology.org/2024.acl-long.319/" }],
-  },
-    {
-    title: "Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search",
-    category: "preprint",
-    authors: ["Sangwon Ryu", "Heejin Do", "Yunsu Kim", "Gary Geunbae Lee", "Jungseul Ok"],
-    year: 2025,
-    venue: "arxiv",
-    links: [{ label: "Paper", url: "https://arxiv.org/abs/2509.26435" }],
-  },
-  {
-    title: "Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model",
-    category: "preprint",
-    authors: ["Daehui Kim", "Deokhyung Kang", "Sangwon Ryu", "Gary Geunbae Lee"],
-    year: 2024,
-    venue: "arxiv",
-    links: [{ label: "Paper", url: "https://arxiv.org/abs/2409.07088" }],
   },
 ];

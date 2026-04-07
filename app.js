@@ -9,6 +9,7 @@ const ABOUT = window.ABOUT || { paragraphs: [] };
 const NEWS = window.NEWS || [];
 const PUBLICATIONS = window.PUBLICATIONS || [];
 const VENUE_ALIASES = window.VENUE_ALIASES || {};
+const NEWS_VISIBLE_COUNT = 5;
 
 const NAME_VARIANTS = new Set(["sangwon ryu", "ryu sangwon"]);
 
@@ -125,14 +126,40 @@ function renderAbout() {
 
 function renderNews() {
   const container = document.getElementById("news-content");
+  const toggle = document.getElementById("news-toggle");
   if (!container) {
     return;
   }
 
-  container.innerHTML = NEWS.map(
-    (item) =>
-      `<li><span class="news-date">${escapeHtml(item.date)}</span><span class="news-text">${escapeHtml(item.text)}</span></li>`
-  ).join("");
+  const renderItems = (items) =>
+    items
+      .map(
+        (item) =>
+          `<li><span class="news-date">${escapeHtml(item.date)}</span><span class="news-text">${escapeHtml(item.text)}</span></li>`
+      )
+      .join("");
+
+  if (!toggle || NEWS.length <= NEWS_VISIBLE_COUNT) {
+    container.innerHTML = renderItems(NEWS);
+    return;
+  }
+
+  let expanded = false;
+
+  const updateNews = () => {
+    const visibleItems = expanded ? NEWS : NEWS.slice(0, NEWS_VISIBLE_COUNT);
+    container.innerHTML = renderItems(visibleItems);
+    toggle.textContent = expanded ? "Show less" : "Show all news";
+    toggle.setAttribute("aria-expanded", String(expanded));
+  };
+
+  toggle.hidden = false;
+  toggle.addEventListener("click", () => {
+    expanded = !expanded;
+    updateNews();
+  });
+
+  updateNews();
 }
 
 function renderPublications() {

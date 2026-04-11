@@ -88,7 +88,7 @@ window.PUBLICATIONS = [
     venue: "acl",
     links: [
       { label: "Paper", url: "https://arxiv.org/abs/2509.26435" },
-      { label: "Post", url: "https://ryusangwon.github.io/paco/" },
+      { label: "page", url: "https://ryusangwon.github.io/paco/" },
     ],
   },
   {

@@ -1,15 +1,9 @@
-const CATEGORY_LABELS = {
-  conference: "C",
-  journal: "J",
-  workshop: "W",
-  preprint: "P",
-};
-
 const ABOUT = window.ABOUT || { paragraphs: [] };
 const NEWS = window.NEWS || [];
 const PUBLICATIONS = window.PUBLICATIONS || [];
 const VENUE_ALIASES = window.VENUE_ALIASES || {};
 const NEWS_VISIBLE_COUNT = 5;
+const THEME_STORAGE_KEY = "theme";
 
 const NAME_VARIANTS = new Set(["sangwon ryu", "ryu sangwon"]);
 
@@ -77,17 +71,30 @@ function formatAuthors(authors = []) {
     .join(", ");
 }
 
-function formatVenue(venueKey, year) {
+function formatVenue(venueKey, year, category) {
   const alias = VENUE_ALIASES[String(venueKey || "").toLowerCase()] || null;
   if (!alias) {
     return `${escapeHtml(venueKey || "Unknown venue")} ${escapeHtml(year)}`;
   }
 
-  const hostAlias = alias.host ? VENUE_ALIASES[String(alias.host).toLowerCase()] || null : null;
-  const hostBadge = hostAlias ? `<span class="badge">${escapeHtml(hostAlias.short)}</span>` : "";
-  const venueBadge = `<span class="badge">${escapeHtml(alias.short)}</span>`;
+  const venueName =
+    category === "workshop"
+      ? String(alias.name || "").replace(/\s+Workshop$/i, "").trim()
+      : alias.name;
 
-  return `${escapeHtml(alias.name)} ${escapeHtml(year)} ${hostBadge}${hostBadge ? " " : ""}${venueBadge}`;
+  const hostAlias = alias.host ? VENUE_ALIASES[String(alias.host).toLowerCase()] || null : null;
+  if (category === "workshop") {
+    if (hostAlias) {
+      return `${escapeHtml(hostAlias.short)} ${escapeHtml(year)} workshop on ${escapeHtml(venueName)}`;
+    }
+    return `${escapeHtml(year)} workshop on ${escapeHtml(venueName)}`;
+  }
+
+  if (category === "journal") {
+    return `${escapeHtml(venueName)} ${escapeHtml(year)}`;
+  }
+
+  return escapeHtml([alias.short, String(year)].join(" "));
 }
 
 function formatLinks(links = []) {
@@ -170,43 +177,60 @@ function renderPublications() {
   }
 
   if (meta) {
-    meta.innerHTML = `
-      <p>Conferences (C) / Journals (J) / Workshops (W) / Preprints (P)</p>
-      <p><sup>*</sup>: Equal contribution, <sup>†</sup>: Co-corresponding author</p>
-    `;
+    meta.innerHTML = "<p><sup>*</sup>: Equal contribution, <sup>†</sup>: Co-corresponding author</p>";
   }
-
-  const categoryTotals = PUBLICATIONS.reduce((acc, pub) => {
-    acc[pub.category] = (acc[pub.category] || 0) + 1;
-    return acc;
-  }, {});
-
-  const categorySeen = {};
 
   const items = PUBLICATIONS.map((pub) => {
     const links = formatLinks(pub.links);
     const note = pub.note ? `<span class="badge">${escapeHtml(pub.note)}</span>` : "";
-    const statusPrefix = pub.status === "to_appear" ? '<span class="pub-status">To appear in</span> ' : "";
-    const labelPrefix = CATEGORY_LABELS[pub.category] || "";
-    categorySeen[pub.category] = (categorySeen[pub.category] || 0) + 1;
-    const labelNumber = (categoryTotals[pub.category] || 0) - categorySeen[pub.category] + 1;
-    const pubLabel = labelPrefix ? `[${labelPrefix}${labelNumber}] ` : "";
+    const statusPrefix =
+      pub.status === "to_appear" ? '<span class="pub-status">To appear in</span> ' : "";
 
     return `
       <li class="publication-item">
-        <div class="pub-title">${escapeHtml(pubLabel)}${escapeHtml(pub.title)}</div>
+        <div class="pub-title">${escapeHtml(pub.title)}</div>
         <div class="pub-authors">${formatAuthors(pub.authors)}</div>
-        <div class="pub-venue">${statusPrefix}${formatVenue(pub.venue, pub.year)}${note}</div>
+        <div class="pub-venue">${statusPrefix}${formatVenue(pub.venue, pub.year, pub.category)}${note}</div>
         <div class="pub-links">${links}</div>
       </li>
     `;
-  });
+  }).join("");
 
   container.innerHTML = `
-    <ol class="publication-list publication-list-flat">
-      ${items.join("")}
+    <ol class="publication-list" reversed start="${PUBLICATIONS.length}">
+      ${items}
     </ol>
   `;
+}
+
+function setupThemeToggle() {
+  const root = document.documentElement;
+  const button = document.getElementById("theme-toggle");
+  const themeColorMeta = document.querySelector('meta[name="theme-color"]');
+  if (!button) {
+    return;
+  }
+
+  const applyTheme = (theme) => {
+    root.dataset.theme = theme;
+    button.textContent = theme === "dark" ? "☀" : "☾";
+    button.setAttribute(
+      "aria-label",
+      theme === "dark" ? "Switch to light mode" : "Switch to dark mode"
+    );
+    if (themeColorMeta) {
+      themeColorMeta.setAttribute("content", theme === "dark" ? "#111315" : "#ffffff");
+    }
+  };
+
+  const currentTheme = root.dataset.theme === "dark" ? "dark" : "light";
+  applyTheme(currentTheme);
+
+  button.addEventListener("click", () => {
+    const nextTheme = root.dataset.theme === "dark" ? "light" : "dark";
+    localStorage.setItem(THEME_STORAGE_KEY, nextTheme);
+    applyTheme(nextTheme);
+  });
 }
 
 function setupToTopButton() {
@@ -230,4 +254,5 @@ function setupToTopButton() {
 renderAbout();
 renderNews();
 renderPublications();
+setupThemeToggle();
 setupToTopButton();

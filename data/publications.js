@@ -62,7 +62,7 @@ window.PUBLICATIONS = [
     category: "preprint",
     authors: ["Daehui Kim", "Deokhyung Kang", "Sangwon Ryu", "Gary Geunbae Lee"],
     year: 2026,
-    venue: "arxiv",
+    venue: "preprint",
     links: [{ label: "Paper", url: "https://arxiv.org/abs/2409.07088" }],
   },
   {
@@ -86,6 +86,7 @@ window.PUBLICATIONS = [
     authors: ["Sangwon Ryu", "Heejin Do", "Yunsu Kim", "Gary Geunbae Lee", "Jungseul Ok"],
     year: 2026,
     venue: "acl",
+    note: "Oral",
     links: [
       { label: "Paper", url: "https://arxiv.org/abs/2509.26435" },
       { label: "Page", url: "https://ryusangwon.github.io/paco/" },

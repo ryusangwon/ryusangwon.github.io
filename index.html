@@ -7,13 +7,23 @@
   <title>Sangwon Ryu</title>
   <meta name="description" content="Sangwon Ryu academic homepage and writing archive." />
   <meta name="theme-color" content="#ffffff" />
+  <script>
+    (() => {
+      const savedTheme = localStorage.getItem("theme");
+      const preferredDark =
+        window.matchMedia &&
+        window.matchMedia("(prefers-color-scheme: dark)").matches;
+      const theme = savedTheme || (preferredDark ? "dark" : "light");
+      document.documentElement.dataset.theme = theme;
+    })();
+  </script>
   <link rel="icon" type="image/svg+xml" href="/images/favicon.svg?v=4" />
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png?v=4" />
   <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png?v=4" />
   <link rel="shortcut icon" href="/images/favicon-32x32.png?v=4" />
   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png?v=4" />
   <link rel="manifest" href="/images/manifest.json?v=4" />
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="styles.css?v=3" />
 </head>
 
 <body>
@@ -29,14 +39,19 @@
           <span class="dot">·</span>
           <a href="https://www.linkedin.com/in/sangwon-ryu-b38556225/" target="_blank" rel="noreferrer">LinkedIn</a>
         </p>
-        <nav>
-          <a href="#about">About</a>
-          <a href="#news">News</a>
-          <a href="#publications">Publications</a>
-        </nav>
+        <div class="header-nav-row">
+          <nav>
+            <a href="#about">About</a>
+            <a href="#news">News</a>
+            <a href="#publications">Publications</a>
+          </nav>
+        </div>
         <p class="header-email">ryusangwon [at] postech [dot] ac [dot] kr</p>
       </div>
-      <img class="profile-photo" src="./images/profile.png" alt="Portrait of Sangwon Ryu" />
+      <div class="header-side">
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">☾</button>
+        <img class="profile-photo" src="./images/profile.png" alt="Portrait of Sangwon Ryu" />
+      </div>
     </div>
   </header>
 
@@ -74,7 +89,7 @@
   <script src="data/about.js"></script>
   <script src="data/news.js"></script>
   <script src="data/publications.js"></script>
-  <script src="app.js"></script>
+  <script src="app.js?v=3"></script>
 </body>
 
 </html>

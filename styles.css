@@ -386,7 +386,6 @@ h2 {
 
 .pub-title {
   font-weight: 600;
-  font-style: italic;
 }
 
 .pub-authors,
@@ -398,6 +397,7 @@ h2 {
 
 .pub-venue {
   color: var(--fg);
+  font-style: italic;
 }
 
 .pub-authors sup {

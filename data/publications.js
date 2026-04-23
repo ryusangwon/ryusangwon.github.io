@@ -86,7 +86,7 @@ window.PUBLICATIONS = [
     authors: ["Sangwon Ryu", "Heejin Do", "Yunsu Kim", "Gary Geunbae Lee", "Jungseul Ok"],
     year: 2026,
     venue: "acl",
-    note: "Oral",
+    // note: "Oral",
     links: [
       { label: "Paper", url: "https://arxiv.org/abs/2509.26435" },
       { label: "Page", url: "https://ryusangwon.github.io/paco/" },

@@ -181,7 +181,7 @@ function renderPublications() {
   }
 
   if (meta) {
-    meta.innerHTML = "<p><sup>*</sup>: Equal contribution, <sup>†</sup>: Co-corresponding author</p>";
+    meta.innerHTML = "<p><sup>*</sup>: Equal contribution, <sup>†</sup>: Co-corresponding authors</p>";
   }
 
   const items = PUBLICATIONS.map((pub) => {

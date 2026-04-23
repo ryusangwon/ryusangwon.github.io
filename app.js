@@ -77,6 +77,10 @@ function formatVenue(venueKey, year, category) {
     return `${escapeHtml(venueKey || "Unknown venue")} ${escapeHtml(year)}`;
   }
 
+  if (String(venueKey || "").toLowerCase() === "arxiv") {
+    return escapeHtml(alias.short || alias.name || "arXiv");
+  }
+
   const venueName =
     category === "workshop"
       ? String(alias.name || "").replace(/\s+Workshop$/i, "").trim()

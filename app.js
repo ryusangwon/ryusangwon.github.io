@@ -18,14 +18,18 @@ function escapeHtml(value) {
 
 function renderInlineMarkdown(text) {
   const raw = String(text || "");
-  const regex = /\[([^\]]+)\]\(((?:https?:\/\/|mailto:)[^)\s]+)\)/g;
+  const regex = /\[([^\]]+)\]\(((?:https?:\/\/|mailto:)[^)\s]+)\)|\*\*([^*]+)\*\*/g;
   let output = "";
   let lastIndex = 0;
   let match = regex.exec(raw);
 
   while (match) {
     output += escapeHtml(raw.slice(lastIndex, match.index));
-    output += `<a href="${escapeHtml(match[2])}" target="_blank" rel="noreferrer">${escapeHtml(match[1])}</a>`;
+    if (match[3]) {
+      output += `<strong>${escapeHtml(match[3])}</strong>`;
+    } else {
+      output += `<a href="${escapeHtml(match[2])}" target="_blank" rel="noreferrer">${escapeHtml(match[1])}</a>`;
+    }
     lastIndex = regex.lastIndex;
     match = regex.exec(raw);
   }
@@ -129,7 +133,10 @@ function renderAbout() {
   }
 
   const paragraphsHtml = (ABOUT.paragraphs || [])
-    .map((paragraph) => `<p>${renderInlineMarkdown(paragraph)}</p>`)
+    .map((paragraph) => {
+      const className = String(paragraph).includes("Research Focus") ? ' class="research-focus"' : "";
+      return `<p${className}>${renderInlineMarkdown(paragraph)}</p>`;
+    })
     .join("");
 
   container.innerHTML = `<div class="about-block">${paragraphsHtml}</div>`;

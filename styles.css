@@ -22,6 +22,8 @@
   --soft: #fafafa;
   --link: #34506b;
   --link-hover: #1f3448;
+  --focus-bg: #f5f7fa;
+  --focus-border: #d7e0ea;
   --button-bg: #ffffff;
   --button-hover: #f2f2f2;
 }
@@ -34,6 +36,8 @@
   --soft: #171a1e;
   --link: #9eb8d2;
   --link-hover: #d5e3f1;
+  --focus-bg: #171c22;
+  --focus-border: #33485d;
   --button-bg: #171a1e;
   --button-hover: #20242a;
 }
@@ -248,6 +252,17 @@ h2 {
 
 .about-block p + p {
   margin-top: 10px;
+}
+
+.about-block .research-focus {
+  background: var(--focus-bg);
+  border-left: 3px solid var(--focus-border);
+  border-radius: 3px;
+  padding: 9px 12px;
+}
+
+.about-block strong {
+  font-weight: 600;
 }
 
 .about-list {

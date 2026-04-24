@@ -397,7 +397,11 @@ h2 {
 
 .pub-venue {
   color: var(--fg);
-  font-style: italic;
+  font-style: normal;
+}
+
+.pub-venue * {
+  font-style: normal;
 }
 
 .pub-authors sup {

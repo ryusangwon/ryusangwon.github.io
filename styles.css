@@ -432,7 +432,8 @@ h2 {
 }
 
 .author-self {
-  font-weight: 600;
+  font-weight: 900;
+  -webkit-text-stroke: 0.2px currentColor;
   color: var(--fg);
 }
 

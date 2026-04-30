@@ -1,6 +1,6 @@
 window.NEWS = [
   // { date: "May 2026", text: "🎉 One paper has been accepted at INTERSPEECH 2026." },
-  // { date: "Apr 2026", text: "🎉 One paper has been accepted at SURGeLLM Workshop at ACL 2026." },
+  { date: "Apr 2026", text: "🎉 One paper has been accepted at SURGeLLM Workshop at ACL 2026." },
   { date: "Apr 2026", text: "🎉 Two papers have been accepted at ACL 2026 (One Main, One Findings)." },
   { date: "Mar 2026", text: "🎤 I will give a talk at Center for Information and Language Processing, LMU Munich." },
   { date: "Mar 2026", text: "🎤 I will serve as a Session Chair for the HCI and Dialogue session at EACL 2026." },

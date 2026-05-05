@@ -1,6 +1,6 @@
 window.NEWS = [
   // { date: "May 2026", text: "🎉 One paper has been accepted at INTERSPEECH 2026." },
-  { date: "May 2026", text: "🎊 I have been selected as an Outstanding Reviewer at ARR." },
+  { date: "May 2026", text: "🎊 I have been selected as an Outstanding Reviewer at ARR 2025." },
   { date: "Apr 2026", text: "🎉 One paper has been accepted at SURGeLLM Workshop at ACL 2026." },
   { date: "Apr 2026", text: "🎉 Two papers have been accepted at ACL 2026 (One Main, One Findings)." },
   { date: "Mar 2026", text: "🎤 I will give a talk at Center for Information and Language Processing, LMU Munich." },

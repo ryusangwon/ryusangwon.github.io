@@ -40,23 +40,24 @@ window.VENUE_ALIASES = {
 };
 
 window.PUBLICATIONS = [
-  // {
-  //   title: "Segment-level Tree Search for Long Meeting Document Summarization",
-  //   category: "conference",
-  //   authors: [
-  //     "Sangwon Ryu",
-  //     "Heejin Do",
-  //     "Jun Seo",
-  //     "Daehui Kim",
-  //     "Yunsu Kim",
-  //     "Gary Geunbae Lee",
-  //     "Jungseul Ok",
-  //   ],
-  //   year: 2026,
-  //   venue: "interspeech",
-  //   note: "Oral",
-  //   links: [{ label: "Paper", url: "" }],
-  // },
+  {
+    title: "Understanding LLM Behavior in Multi-Target Cross-Lingual Summarization",
+    category: "conference",
+    authors: ["Sangwon Ryu", "Yihong Liu", "Mingyang Wang", "Yunsu Kim", "Jungseul Ok", "Gary Geunbae Lee", "Hinrich Schütze"],
+    year: 2026,
+    venue: "arxiv",
+    links: [
+      { label: "Paper", url: "https://arxiv.org/abs/2606.01252" },
+    ],
+  },
+  {
+    title: "Segment-level Tree Search for Long Meeting Document Summarization",
+    category: "conference",
+    authors: ["Sangwon Ryu", "Heejin Do", "Jun Seo", "Daehui Kim", "Yunsu Kim", "Gary Geunbae Lee", "Jungseul Ok"],
+    year: 2026,
+    venue: "interspeech",
+    links: [{ label: "Paper", url: "" }],
+  },
   {
     title: "Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model",
     category: "workshop",
@@ -66,6 +67,18 @@ window.PUBLICATIONS = [
     links: [{ label: "Paper", url: "https://arxiv.org/abs/2409.07088" }],
   },
   {
+    title: "Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search",
+    category: "conference",
+    authors: ["Sangwon Ryu", "Heejin Do", "Yunsu Kim", "Gary Geunbae Lee", "Jungseul Ok"],
+    year: 2026,
+    venue: "acl",
+    note: "Oral",
+    links: [
+      { label: "Paper", url: "https://arxiv.org/abs/2509.26435" },
+      { label: "Page", url: "https://ryusangwon.github.io/paco/" },
+    ],
+  },
+    {
     title: "Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing",
     category: "conference",
     authors: [
@@ -79,18 +92,6 @@ window.PUBLICATIONS = [
     venue: "acl",
     note: "Findings",
     links: [{ label: "Paper", url: "https://arxiv.org/abs/2604.08260" }],
-  },
-  {
-    title: "Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search",
-    category: "conference",
-    authors: ["Sangwon Ryu", "Heejin Do", "Yunsu Kim", "Gary Geunbae Lee", "Jungseul Ok"],
-    year: 2026,
-    venue: "acl",
-    note: "Oral",
-    links: [
-      { label: "Paper", url: "https://arxiv.org/abs/2509.26435" },
-      { label: "Page", url: "https://ryusangwon.github.io/paco/" },
-    ],
   },
   {
     title: "Teach-to-Reason with Scoring: Rationale-Driven Automated Multi-Trait Essay Scoring",
@@ -136,7 +137,7 @@ window.PUBLICATIONS = [
     authors: ["Heejin Do", "Taehee Park", "Sangwon Ryu", "Gary Geunbae Lee"],
     year: 2025,
     venue: "naacl",
-    note: "Findings",
+    note: "Short, Findings",
     links: [{ label: "Paper", url: "https://aclanthology.org/2025.findings-naacl.153/" }],
   },
   {

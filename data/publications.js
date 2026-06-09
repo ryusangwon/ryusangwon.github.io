@@ -56,7 +56,7 @@ window.PUBLICATIONS = [
     authors: ["Sangwon Ryu", "Heejin Do", "Jun Seo", "Daehui Kim", "Yunsu Kim", "Gary Geunbae Lee", "Jungseul Ok"],
     year: 2026,
     venue: "interspeech",
-    links: [{ label: "Paper", url: "" }],
+    links: [{ label: "Paper", url: "https://arxiv.org/abs/2606.08445" }],
   },
   {
     title: "Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model",

@@ -26,6 +26,9 @@
   --focus-border: #d7e0ea;
   --button-bg: #ffffff;
   --button-hover: #f2f2f2;
+  --oral-bg: #f4f7f9;
+  --oral-border: #7f96aa;
+  --oral-fg: #263f54;
 }
 
 :root[data-theme="dark"] {
@@ -40,6 +43,9 @@
   --focus-border: #33485d;
   --button-bg: #171a1e;
   --button-hover: #20242a;
+  --oral-bg: #161c23;
+  --oral-border: #60788e;
+  --oral-fg: #d1e0ec;
 }
 
 * {
@@ -450,6 +456,15 @@ h2 {
   font-size: 0.78rem;
   color: var(--muted);
   margin-left: 8px;
+}
+
+.badge-oral {
+  border-color: var(--oral-border);
+  background: var(--oral-bg);
+  color: var(--oral-fg);
+  font-weight: 650;
+  letter-spacing: 0;
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--oral-border) 14%, transparent);
 }
 
 

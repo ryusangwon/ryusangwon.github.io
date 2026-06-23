@@ -126,6 +126,17 @@ function getPaperUrl(pub) {
   return pub.links[0].url || "";
 }
 
+function formatNoteBadge(noteValue) {
+  if (!noteValue) {
+    return "";
+  }
+
+  const note = String(noteValue);
+  const isOral = /\boral\b/i.test(note);
+  const className = isOral ? "badge badge-oral" : "badge";
+  return `<span class="${className}">${escapeHtml(note)}</span>`;
+}
+
 function renderAbout() {
   const container = document.getElementById("about-content");
   if (!container) {
@@ -193,7 +204,7 @@ function renderPublications() {
 
   const items = PUBLICATIONS.map((pub) => {
     const links = formatLinks(pub.links);
-    const note = pub.note ? `<span class="badge">${escapeHtml(pub.note)}</span>` : "";
+    const note = formatNoteBadge(pub.note);
     const statusPrefix =
       pub.status === "to_appear" ? '<span class="pub-status">To appear in</span> ' : "";
 

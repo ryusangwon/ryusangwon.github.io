@@ -56,6 +56,7 @@ window.PUBLICATIONS = [
     authors: ["Sangwon Ryu", "Heejin Do", "Jun Seo", "Daehui Kim", "Yunsu Kim", "Gary Geunbae Lee", "Jungseul Ok"],
     year: 2026,
     venue: "interspeech",
+    note: "Oral",
     links: [{ label: "Paper", url: "https://arxiv.org/abs/2606.08445" }],
   },
   {

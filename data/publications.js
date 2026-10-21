@@ -41,6 +41,16 @@ window.VENUE_ALIASES = {
 
 window.PUBLICATIONS = [
   {
+    title: "Last Translation Benchmark",
+    category: "conference",
+    authors: ["Vilém Zouhar", "…", "Sangwon Ryu", "…"],
+    year: 2026,
+    venue: "arxiv",
+    links: [
+      { label: "Paper", url: "https://arxiv.org/abs/2609.04173" },
+    ],
+  },
+  {
     title: "Understanding LLM Behavior in Multi-Target Cross-Lingual Summarization",
     category: "conference",
     authors: ["Sangwon Ryu", "Yihong Liu", "Mingyang Wang", "Yunsu Kim", "Jungseul Ok", "Gary Geunbae Lee", "Hinrich Schütze"],
